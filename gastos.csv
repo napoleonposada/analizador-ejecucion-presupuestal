@@ -1,0 +1,1001 @@
+codigo proyecto,mes gasto,partida gasto,monto gasto
+PRY-001,Enero 2026,Personal,425.5
+PRY-012,Agosto 2026,Transporte,19511.5
+PRY-023,Marzo 2026,Personal,34497.5
+PRY-009,Octubre 2026,Transporte,29208.5
+PRY-020,Mayo 2026,Personal,44194.5
+PRY-006,Diciembre 2026,Transporte,38905.5
+PRY-017,Julio 2026,Personal,4391.5
+PRY-003,Febrero 2026,Transporte,48602.5
+PRY-014,Septiembre 2026,Personal,14088.5
+PRY-025,Abril 2026,Transporte,33174.5
+PRY-011,Noviembre 2026,Personal,23785.5
+PRY-022,Junio 2026,Transporte,42871.5
+PRY-008,Enero 2026,Personal,33482.5
+PRY-019,Agosto 2026,Transporte,3068.5
+PRY-005,Marzo 2026,Personal,43179.5
+PRY-016,Octubre 2026,Transporte,12765.5
+PRY-002,Mayo 2026,Personal,3376.5
+PRY-014,Diciembre 2026,Transporte,23437.5
+PRY-025,Julio 2026,Personal,38423.5
+PRY-011,Febrero 2026,Transporte,33134.5
+PRY-022,Septiembre 2026,Personal,48120.5
+PRY-008,Abril 2026,Transporte,42831.5
+PRY-019,Noviembre 2026,Personal,8317.5
+PRY-005,Junio 2026,Transporte,3028.5
+PRY-016,Enero 2026,Personal,18014.5
+PRY-002,Agosto 2026,Transporte,12725.5
+PRY-013,Marzo 2026,Personal,27711.5
+PRY-024,Octubre 2026,Transporte,46797.5
+PRY-010,Mayo 2026,Personal,37408.5
+PRY-021,Enero 2026,Transporte,6994.5
+PRY-007,Agosto 2026,Personal,47105.5
+PRY-018,Marzo 2026,Comunicación y marketing,17101.5
+PRY-004,Octubre 2026,Equipamiento,7712.5
+PRY-015,Mayo 2026,Comunicación y marketing,26798.5
+PRY-002,Diciembre 2026,Equipamiento,18384.5
+PRY-013,Julio 2026,Comunicación y marketing,37470.5
+PRY-024,Febrero 2026,Equipamiento,2956.5
+PRY-010,Septiembre 2026,Comunicación y marketing,47167.5
+PRY-021,Abril 2026,Equipamiento,12653.5
+PRY-007,Noviembre 2026,Comunicación y marketing,7364.5
+PRY-018,Junio 2026,Equipamiento,22350.5
+PRY-004,Enero 2026,Comunicación y marketing,17061.5
+PRY-015,Agosto 2026,Equipamiento,32047.5
+PRY-001,Marzo 2026,Comunicación y marketing,26758.5
+PRY-012,Octubre 2026,Equipamiento,41744.5
+PRY-023,Mayo 2026,Comunicación y marketing,11330.5
+PRY-009,Diciembre 2026,Equipamiento,1941.5
+PRY-020,Julio 2026,Comunicación y marketing,21027.5
+PRY-006,Febrero 2026,Equipamiento,11638.5
+PRY-017,Septiembre 2026,Comunicación y marketing,30724.5
+PRY-003,Abril 2026,Equipamiento,21335.5
+PRY-015,Noviembre 2026,Comunicación y marketing,41396.5
+PRY-001,Junio 2026,Equipamiento,32007.5
+PRY-012,Enero 2026,Comunicación y marketing,1593.5
+PRY-023,Agosto 2026,Equipamiento,16579.5
+PRY-009,Marzo 2026,Comunicación y marketing,11290.5
+PRY-020,Octubre 2026,Equipamiento,26276.5
+PRY-006,Mayo 2026,Comunicación y marketing,20987.5
+PRY-017,Enero 2026,Equipamiento,35973.5
+PRY-003,Agosto 2026,Comunicación y marketing,30684.5
+PRY-014,Marzo 2026,Equipamiento,45670.5
+PRY-025,Octubre 2026,Comunicación y marketing,15256.5
+PRY-011,Mayo 2026,Servicios profesionales,6277.5
+PRY-022,Diciembre 2026,Capacitación,25363.5
+PRY-008,Julio 2026,Servicios profesionales,15974.5
+PRY-019,Febrero 2026,Capacitación,35060.5
+PRY-005,Septiembre 2026,Servicios profesionales,25671.5
+PRY-016,Abril 2026,Capacitación,44757.5
+PRY-003,Noviembre 2026,Servicios profesionales,36343.5
+PRY-014,Junio 2026,Capacitación,5929.5
+PRY-025,Enero 2026,Servicios profesionales,20915.5
+PRY-011,Agosto 2026,Capacitación,15626.5
+PRY-022,Marzo 2026,Servicios profesionales,30612.5
+PRY-008,Octubre 2026,Capacitación,25323.5
+PRY-019,Mayo 2026,Servicios profesionales,40309.5
+PRY-005,Diciembre 2026,Capacitación,35020.5
+PRY-016,Julio 2026,Servicios profesionales,506.5
+PRY-002,Febrero 2026,Capacitación,44717.5
+PRY-013,Septiembre 2026,Servicios profesionales,10203.5
+PRY-024,Abril 2026,Capacitación,29289.5
+PRY-010,Noviembre 2026,Servicios profesionales,19900.5
+PRY-021,Junio 2026,Capacitación,38986.5
+PRY-007,Enero 2026,Servicios profesionales,29597.5
+PRY-018,Agosto 2026,Capacitación,48683.5
+PRY-004,Marzo 2026,Servicios profesionales,39294.5
+PRY-016,Octubre 2026,Capacitación,9855.5
+PRY-002,Mayo 2026,Servicios profesionales,466.5
+PRY-013,Enero 2026,Capacitación,19552.5
+PRY-024,Agosto 2026,Servicios profesionales,34538.5
+PRY-010,Marzo 2026,Capacitación,29249.5
+PRY-021,Octubre 2026,Servicios profesionales,44235.5
+PRY-007,Mayo 2026,Capacitación,38946.5
+PRY-018,Diciembre 2026,Servicios profesionales,4432.5
+PRY-004,Julio 2026,Mantenimiento,49053.5
+PRY-015,Febrero 2026,Software y licencias,14539.5
+PRY-001,Septiembre 2026,Mantenimiento,9250.5
+PRY-012,Abril 2026,Software y licencias,24236.5
+PRY-023,Noviembre 2026,Mantenimiento,43322.5
+PRY-009,Junio 2026,Software y licencias,33933.5
+PRY-020,Enero 2026,Mantenimiento,3519.5
+PRY-006,Agosto 2026,Software y licencias,43630.5
+PRY-017,Marzo 2026,Mantenimiento,13216.5
+PRY-004,Octubre 2026,Software y licencias,4802.5
+PRY-015,Mayo 2026,Mantenimiento,23888.5
+PRY-001,Diciembre 2026,Software y licencias,14499.5
+PRY-012,Julio 2026,Mantenimiento,33585.5
+PRY-023,Febrero 2026,Software y licencias,48571.5
+PRY-009,Septiembre 2026,Mantenimiento,43282.5
+PRY-020,Abril 2026,Software y licencias,8768.5
+PRY-006,Noviembre 2026,Mantenimiento,3479.5
+PRY-017,Junio 2026,Software y licencias,18465.5
+PRY-003,Enero 2026,Mantenimiento,13176.5
+PRY-014,Agosto 2026,Software y licencias,28162.5
+PRY-025,Marzo 2026,Mantenimiento,47248.5
+PRY-011,Octubre 2026,Software y licencias,37859.5
+PRY-022,Mayo 2026,Mantenimiento,7445.5
+PRY-008,Enero 2026,Software y licencias,47556.5
+PRY-019,Agosto 2026,Mantenimiento,17142.5
+PRY-005,Marzo 2026,Software y licencias,7753.5
+PRY-017,Octubre 2026,Mantenimiento,27814.5
+PRY-003,Mayo 2026,Software y licencias,18425.5
+PRY-014,Diciembre 2026,Mantenimiento,37511.5
+PRY-025,Julio 2026,Software y licencias,2997.5
+PRY-011,Febrero 2026,Mantenimiento,47208.5
+PRY-022,Septiembre 2026,Materiales,13104.5
+PRY-008,Abril 2026,Servicios básicos,7815.5
+PRY-019,Noviembre 2026,Materiales,22801.5
+PRY-005,Junio 2026,Servicios básicos,17512.5
+PRY-016,Enero 2026,Materiales,32498.5
+PRY-002,Agosto 2026,Servicios básicos,27209.5
+PRY-013,Marzo 2026,Materiales,42195.5
+PRY-024,Octubre 2026,Servicios básicos,11781.5
+PRY-010,Mayo 2026,Materiales,2392.5
+PRY-021,Diciembre 2026,Servicios básicos,21478.5
+PRY-007,Julio 2026,Materiales,12089.5
+PRY-018,Febrero 2026,Servicios básicos,31175.5
+PRY-005,Septiembre 2026,Materiales,22761.5
+PRY-016,Abril 2026,Servicios básicos,41847.5
+PRY-002,Noviembre 2026,Materiales,32458.5
+PRY-013,Junio 2026,Servicios básicos,2044.5
+PRY-024,Enero 2026,Materiales,17030.5
+PRY-010,Agosto 2026,Servicios básicos,11741.5
+PRY-021,Marzo 2026,Materiales,26727.5
+PRY-007,Octubre 2026,Servicios básicos,21438.5
+PRY-018,Mayo 2026,Materiales,36424.5
+PRY-004,Enero 2026,Servicios básicos,31135.5
+PRY-015,Agosto 2026,Materiales,46121.5
+PRY-001,Marzo 2026,Servicios básicos,40832.5
+PRY-012,Octubre 2026,Materiales,6318.5
+PRY-023,Mayo 2026,Servicios básicos,25404.5
+PRY-009,Diciembre 2026,Materiales,16015.5
+PRY-020,Julio 2026,Servicios básicos,35101.5
+PRY-006,Febrero 2026,Materiales,25712.5
+PRY-018,Septiembre 2026,Servicios básicos,45773.5
+PRY-004,Abril 2026,Materiales,36384.5
+PRY-015,Noviembre 2026,Personal,2280.5
+PRY-001,Junio 2026,Transporte,46491.5
+PRY-012,Enero 2026,Personal,11977.5
+PRY-023,Agosto 2026,Transporte,31063.5
+PRY-009,Marzo 2026,Personal,21674.5
+PRY-020,Octubre 2026,Transporte,40760.5
+PRY-006,Mayo 2026,Personal,31371.5
+PRY-017,Diciembre 2026,Transporte,957.5
+PRY-003,Julio 2026,Personal,41068.5
+PRY-014,Febrero 2026,Transporte,10654.5
+PRY-025,Septiembre 2026,Personal,25640.5
+PRY-011,Abril 2026,Transporte,20351.5
+PRY-022,Noviembre 2026,Personal,35337.5
+PRY-008,Junio 2026,Transporte,30048.5
+PRY-019,Enero 2026,Personal,45034.5
+PRY-006,Agosto 2026,Transporte,40720.5
+PRY-017,Marzo 2026,Personal,6206.5
+PRY-003,Octubre 2026,Transporte,917.5
+PRY-014,Mayo 2026,Personal,15903.5
+PRY-025,Enero 2026,Transporte,34989.5
+PRY-011,Agosto 2026,Personal,25600.5
+PRY-022,Marzo 2026,Transporte,44686.5
+PRY-008,Octubre 2026,Personal,35297.5
+PRY-019,Mayo 2026,Transporte,4883.5
+PRY-005,Diciembre 2026,Personal,44994.5
+PRY-016,Julio 2026,Transporte,14580.5
+PRY-002,Febrero 2026,Personal,5191.5
+PRY-013,Septiembre 2026,Transporte,24277.5
+PRY-024,Abril 2026,Personal,39263.5
+PRY-010,Noviembre 2026,Transporte,33974.5
+PRY-021,Junio 2026,Personal,48960.5
+PRY-007,Enero 2026,Comunicación y marketing,44081.5
+PRY-019,Agosto 2026,Equipamiento,10542.5
+PRY-005,Marzo 2026,Comunicación y marketing,5253.5
+PRY-016,Octubre 2026,Equipamiento,20239.5
+PRY-002,Mayo 2026,Comunicación y marketing,14950.5
+PRY-013,Diciembre 2026,Equipamiento,29936.5
+PRY-024,Julio 2026,Comunicación y marketing,49022.5
+PRY-010,Febrero 2026,Equipamiento,39633.5
+PRY-021,Septiembre 2026,Comunicación y marketing,9219.5
+PRY-007,Abril 2026,Equipamiento,49330.5
+PRY-018,Noviembre 2026,Comunicación y marketing,18916.5
+PRY-004,Junio 2026,Equipamiento,9527.5
+PRY-015,Enero 2026,Comunicación y marketing,28613.5
+PRY-001,Agosto 2026,Equipamiento,19224.5
+PRY-012,Marzo 2026,Comunicación y marketing,38310.5
+PRY-023,Octubre 2026,Equipamiento,3796.5
+PRY-009,Mayo 2026,Comunicación y marketing,48007.5
+PRY-020,Enero 2026,Equipamiento,13493.5
+PRY-007,Agosto 2026,Comunicación y marketing,9179.5
+PRY-018,Marzo 2026,Equipamiento,24165.5
+PRY-004,Octubre 2026,Comunicación y marketing,18876.5
+PRY-015,Mayo 2026,Equipamiento,33862.5
+PRY-001,Diciembre 2026,Comunicación y marketing,28573.5
+PRY-012,Julio 2026,Equipamiento,43559.5
+PRY-023,Febrero 2026,Comunicación y marketing,13145.5
+PRY-009,Septiembre 2026,Equipamiento,3756.5
+PRY-020,Abril 2026,Comunicación y marketing,22842.5
+PRY-006,Noviembre 2026,Equipamiento,13453.5
+PRY-017,Junio 2026,Comunicación y marketing,32539.5
+PRY-003,Enero 2026,Equipamiento,23150.5
+PRY-014,Agosto 2026,Comunicación y marketing,42236.5
+PRY-025,Marzo 2026,Servicios profesionales,8132.5
+PRY-011,Octubre 2026,Capacitación,2843.5
+PRY-022,Mayo 2026,Servicios profesionales,17829.5
+PRY-008,Diciembre 2026,Capacitación,12540.5
+PRY-020,Julio 2026,Servicios profesionales,28501.5
+PRY-006,Febrero 2026,Capacitación,23212.5
+PRY-017,Septiembre 2026,Servicios profesionales,38198.5
+PRY-003,Abril 2026,Capacitación,32909.5
+PRY-014,Noviembre 2026,Servicios profesionales,47895.5
+PRY-025,Junio 2026,Capacitación,17481.5
+PRY-011,Enero 2026,Servicios profesionales,8092.5
+PRY-022,Agosto 2026,Capacitación,27178.5
+PRY-008,Marzo 2026,Servicios profesionales,17789.5
+PRY-019,Octubre 2026,Capacitación,36875.5
+PRY-005,Mayo 2026,Servicios profesionales,27486.5
+PRY-016,Enero 2026,Capacitación,46572.5
+PRY-002,Agosto 2026,Servicios profesionales,37183.5
+PRY-013,Marzo 2026,Capacitación,6769.5
+PRY-024,Octubre 2026,Servicios profesionales,21755.5
+PRY-010,Mayo 2026,Capacitación,16466.5
+PRY-021,Diciembre 2026,Servicios profesionales,31452.5
+PRY-008,Julio 2026,Capacitación,27138.5
+PRY-019,Febrero 2026,Servicios profesionales,42124.5
+PRY-005,Septiembre 2026,Capacitación,36835.5
+PRY-016,Abril 2026,Servicios profesionales,2321.5
+PRY-002,Noviembre 2026,Capacitación,46532.5
+PRY-013,Junio 2026,Servicios profesionales,12018.5
+PRY-024,Enero 2026,Capacitación,31104.5
+PRY-010,Agosto 2026,Servicios profesionales,21715.5
+PRY-021,Marzo 2026,Capacitación,40801.5
+PRY-007,Octubre 2026,Servicios profesionales,31412.5
+PRY-018,Mayo 2026,Mantenimiento,1408.5
+PRY-004,Diciembre 2026,Software y licencias,41519.5
+PRY-015,Julio 2026,Mantenimiento,11105.5
+PRY-001,Febrero 2026,Software y licencias,1716.5
+PRY-012,Septiembre 2026,Mantenimiento,20802.5
+PRY-023,Abril 2026,Software y licencias,35788.5
+PRY-009,Noviembre 2026,Mantenimiento,30499.5
+PRY-021,Junio 2026,Software y licencias,46460.5
+PRY-007,Enero 2026,Mantenimiento,41171.5
+PRY-018,Agosto 2026,Software y licencias,6657.5
+PRY-004,Marzo 2026,Mantenimiento,1368.5
+PRY-015,Octubre 2026,Software y licencias,16354.5
+PRY-001,Mayo 2026,Mantenimiento,11065.5
+PRY-012,Enero 2026,Software y licencias,26051.5
+PRY-023,Agosto 2026,Mantenimiento,45137.5
+PRY-009,Marzo 2026,Software y licencias,35748.5
+PRY-020,Octubre 2026,Mantenimiento,5334.5
+PRY-006,Mayo 2026,Software y licencias,45445.5
+PRY-017,Diciembre 2026,Mantenimiento,15031.5
+PRY-003,Julio 2026,Software y licencias,5642.5
+PRY-014,Febrero 2026,Mantenimiento,24728.5
+PRY-025,Septiembre 2026,Software y licencias,39714.5
+PRY-011,Abril 2026,Mantenimiento,34425.5
+PRY-022,Noviembre 2026,Software y licencias,49411.5
+PRY-009,Junio 2026,Mantenimiento,45097.5
+PRY-020,Enero 2026,Software y licencias,10583.5
+PRY-006,Agosto 2026,Mantenimiento,5294.5
+PRY-017,Marzo 2026,Software y licencias,20280.5
+PRY-003,Octubre 2026,Mantenimiento,14991.5
+PRY-014,Mayo 2026,Software y licencias,29977.5
+PRY-025,Diciembre 2026,Mantenimiento,49063.5
+PRY-011,Julio 2026,Materiales,40084.5
+PRY-022,Febrero 2026,Servicios básicos,9670.5
+PRY-008,Septiembre 2026,Materiales,49781.5
+PRY-019,Abril 2026,Servicios básicos,19367.5
+PRY-005,Noviembre 2026,Materiales,9978.5
+PRY-016,Junio 2026,Servicios básicos,29064.5
+PRY-002,Enero 2026,Materiales,19675.5
+PRY-013,Agosto 2026,Servicios básicos,38761.5
+PRY-024,Marzo 2026,Materiales,4247.5
+PRY-010,Octubre 2026,Servicios básicos,48458.5
+PRY-022,Mayo 2026,Materiales,14919.5
+PRY-008,Enero 2026,Servicios básicos,9630.5
+PRY-019,Agosto 2026,Materiales,24616.5
+PRY-005,Marzo 2026,Servicios básicos,19327.5
+PRY-016,Octubre 2026,Materiales,34313.5
+PRY-002,Mayo 2026,Servicios básicos,29024.5
+PRY-013,Diciembre 2026,Materiales,44010.5
+PRY-024,Julio 2026,Servicios básicos,13596.5
+PRY-010,Febrero 2026,Materiales,4207.5
+PRY-021,Septiembre 2026,Servicios básicos,23293.5
+PRY-007,Abril 2026,Materiales,13904.5
+PRY-018,Noviembre 2026,Servicios básicos,32990.5
+PRY-004,Junio 2026,Materiales,23601.5
+PRY-015,Enero 2026,Servicios básicos,42687.5
+PRY-001,Agosto 2026,Materiales,33298.5
+PRY-012,Marzo 2026,Servicios básicos,2884.5
+PRY-023,Octubre 2026,Materiales,17870.5
+PRY-010,Mayo 2026,Servicios básicos,13556.5
+PRY-021,Diciembre 2026,Materiales,28542.5
+PRY-007,Julio 2026,Servicios básicos,23253.5
+PRY-018,Febrero 2026,Materiales,38239.5
+PRY-004,Septiembre 2026,Personal,29260.5
+PRY-015,Abril 2026,Transporte,48346.5
+PRY-001,Noviembre 2026,Personal,38957.5
+PRY-012,Junio 2026,Transporte,8543.5
+PRY-023,Enero 2026,Personal,23529.5
+PRY-009,Agosto 2026,Transporte,18240.5
+PRY-020,Marzo 2026,Personal,33226.5
+PRY-006,Octubre 2026,Transporte,27937.5
+PRY-017,Mayo 2026,Personal,42923.5
+PRY-003,Enero 2026,Transporte,37634.5
+PRY-014,Agosto 2026,Personal,3120.5
+PRY-025,Marzo 2026,Transporte,22206.5
+PRY-011,Octubre 2026,Personal,12817.5
+PRY-023,Mayo 2026,Transporte,32878.5
+PRY-009,Diciembre 2026,Personal,23489.5
+PRY-020,Julio 2026,Transporte,42575.5
+PRY-006,Febrero 2026,Personal,33186.5
+PRY-017,Septiembre 2026,Transporte,2772.5
+PRY-003,Abril 2026,Personal,42883.5
+PRY-014,Noviembre 2026,Transporte,12469.5
+PRY-025,Junio 2026,Personal,27455.5
+PRY-011,Enero 2026,Transporte,22166.5
+PRY-022,Agosto 2026,Personal,37152.5
+PRY-008,Marzo 2026,Transporte,31863.5
+PRY-019,Octubre 2026,Personal,46849.5
+PRY-005,Mayo 2026,Transporte,41560.5
+PRY-016,Diciembre 2026,Personal,7046.5
+PRY-002,Julio 2026,Transporte,1757.5
+PRY-013,Febrero 2026,Personal,16743.5
+PRY-024,Septiembre 2026,Transporte,35829.5
+PRY-011,Abril 2026,Personal,27415.5
+PRY-022,Noviembre 2026,Comunicación y marketing,46911.5
+PRY-008,Junio 2026,Equipamiento,37522.5
+PRY-019,Enero 2026,Comunicación y marketing,7108.5
+PRY-005,Agosto 2026,Equipamiento,47219.5
+PRY-016,Marzo 2026,Comunicación y marketing,16805.5
+PRY-002,Octubre 2026,Equipamiento,7416.5
+PRY-013,Mayo 2026,Comunicación y marketing,26502.5
+PRY-024,Enero 2026,Equipamiento,41488.5
+PRY-010,Agosto 2026,Comunicación y marketing,36199.5
+PRY-021,Marzo 2026,Equipamiento,1685.5
+PRY-007,Octubre 2026,Comunicación y marketing,45896.5
+PRY-018,Mayo 2026,Equipamiento,11382.5
+PRY-004,Diciembre 2026,Comunicación y marketing,6093.5
+PRY-015,Julio 2026,Equipamiento,21079.5
+PRY-001,Febrero 2026,Comunicación y marketing,15790.5
+PRY-012,Septiembre 2026,Equipamiento,30776.5
+PRY-024,Abril 2026,Comunicación y marketing,1337.5
+PRY-010,Noviembre 2026,Equipamiento,41448.5
+PRY-021,Junio 2026,Comunicación y marketing,11034.5
+PRY-007,Enero 2026,Equipamiento,1645.5
+PRY-018,Agosto 2026,Comunicación y marketing,20731.5
+PRY-004,Marzo 2026,Equipamiento,11342.5
+PRY-015,Octubre 2026,Comunicación y marketing,30428.5
+PRY-001,Mayo 2026,Equipamiento,21039.5
+PRY-012,Diciembre 2026,Comunicación y marketing,40125.5
+PRY-023,Julio 2026,Equipamiento,5611.5
+PRY-009,Febrero 2026,Comunicación y marketing,49822.5
+PRY-020,Septiembre 2026,Equipamiento,15308.5
+PRY-006,Abril 2026,Comunicación y marketing,10019.5
+PRY-017,Noviembre 2026,Equipamiento,25005.5
+PRY-003,Junio 2026,Comunicación y marketing,19716.5
+PRY-014,Enero 2026,Servicios profesionales,35112.5
+PRY-025,Agosto 2026,Capacitación,4698.5
+PRY-012,Marzo 2026,Servicios profesionales,45784.5
+PRY-023,Octubre 2026,Capacitación,15370.5
+PRY-009,Mayo 2026,Servicios profesionales,5981.5
+PRY-020,Enero 2026,Capacitación,25067.5
+PRY-006,Agosto 2026,Servicios profesionales,15678.5
+PRY-017,Marzo 2026,Capacitación,34764.5
+PRY-003,Octubre 2026,Servicios profesionales,25375.5
+PRY-014,Mayo 2026,Capacitación,44461.5
+PRY-025,Diciembre 2026,Servicios profesionales,9947.5
+PRY-011,Julio 2026,Capacitación,4658.5
+PRY-022,Febrero 2026,Servicios profesionales,19644.5
+PRY-008,Septiembre 2026,Capacitación,14355.5
+PRY-019,Abril 2026,Servicios profesionales,29341.5
+PRY-005,Noviembre 2026,Capacitación,24052.5
+PRY-016,Junio 2026,Servicios profesionales,39038.5
+PRY-002,Enero 2026,Capacitación,33749.5
+PRY-013,Agosto 2026,Servicios profesionales,48735.5
+PRY-025,Marzo 2026,Capacitación,19296.5
+PRY-011,Octubre 2026,Servicios profesionales,9907.5
+PRY-022,Mayo 2026,Capacitación,28993.5
+PRY-008,Diciembre 2026,Servicios profesionales,19604.5
+PRY-019,Julio 2026,Capacitación,38690.5
+PRY-005,Febrero 2026,Servicios profesionales,29301.5
+PRY-016,Septiembre 2026,Capacitación,48387.5
+PRY-002,Abril 2026,Servicios profesionales,38998.5
+PRY-013,Noviembre 2026,Capacitación,8584.5
+PRY-024,Junio 2026,Servicios profesionales,23570.5
+PRY-010,Enero 2026,Capacitación,18281.5
+PRY-021,Agosto 2026,Servicios profesionales,33267.5
+PRY-007,Marzo 2026,Mantenimiento,28388.5
+PRY-018,Octubre 2026,Software y licencias,43374.5
+PRY-004,Mayo 2026,Mantenimiento,38085.5
+PRY-015,Enero 2026,Software y licencias,3571.5
+PRY-001,Agosto 2026,Mantenimiento,47782.5
+PRY-013,Marzo 2026,Software y licencias,14243.5
+PRY-024,Octubre 2026,Mantenimiento,33329.5
+PRY-010,Mayo 2026,Software y licencias,23940.5
+PRY-021,Diciembre 2026,Mantenimiento,43026.5
+PRY-007,Julio 2026,Software y licencias,33637.5
+PRY-018,Febrero 2026,Mantenimiento,3223.5
+PRY-004,Septiembre 2026,Software y licencias,43334.5
+PRY-015,Abril 2026,Mantenimiento,12920.5
+PRY-001,Noviembre 2026,Software y licencias,3531.5
+PRY-012,Junio 2026,Mantenimiento,22617.5
+PRY-023,Enero 2026,Software y licencias,37603.5
+PRY-009,Agosto 2026,Mantenimiento,32314.5
+PRY-020,Marzo 2026,Software y licencias,47300.5
+PRY-006,Octubre 2026,Mantenimiento,42011.5
+PRY-017,Mayo 2026,Software y licencias,7497.5
+PRY-003,Diciembre 2026,Mantenimiento,2208.5
+PRY-014,Julio 2026,Software y licencias,17194.5
+PRY-001,Febrero 2026,Mantenimiento,12880.5
+PRY-012,Septiembre 2026,Software y licencias,27866.5
+PRY-023,Abril 2026,Mantenimiento,46952.5
+PRY-009,Noviembre 2026,Software y licencias,37563.5
+PRY-020,Junio 2026,Mantenimiento,7149.5
+PRY-006,Enero 2026,Software y licencias,47260.5
+PRY-017,Agosto 2026,Mantenimiento,16846.5
+PRY-003,Marzo 2026,Software y licencias,7457.5
+PRY-014,Octubre 2026,Mantenimiento,26543.5
+PRY-025,Mayo 2026,Materiales,41939.5
+PRY-011,Enero 2026,Servicios básicos,36650.5
+PRY-022,Agosto 2026,Materiales,2136.5
+PRY-008,Marzo 2026,Servicios básicos,46347.5
+PRY-019,Octubre 2026,Materiales,11833.5
+PRY-005,Mayo 2026,Servicios básicos,6544.5
+PRY-016,Diciembre 2026,Materiales,21530.5
+PRY-002,Julio 2026,Servicios básicos,16241.5
+PRY-014,Febrero 2026,Materiales,32202.5
+PRY-025,Septiembre 2026,Servicios básicos,1788.5
+PRY-011,Abril 2026,Materiales,41899.5
+PRY-022,Noviembre 2026,Servicios básicos,11485.5
+PRY-008,Junio 2026,Materiales,2096.5
+PRY-019,Enero 2026,Servicios básicos,21182.5
+PRY-005,Agosto 2026,Materiales,11793.5
+PRY-016,Marzo 2026,Servicios básicos,30879.5
+PRY-002,Octubre 2026,Materiales,21490.5
+PRY-013,Mayo 2026,Servicios básicos,40576.5
+PRY-024,Diciembre 2026,Materiales,6062.5
+PRY-010,Julio 2026,Servicios básicos,773.5
+PRY-021,Febrero 2026,Materiales,15759.5
+PRY-007,Septiembre 2026,Servicios básicos,10470.5
+PRY-018,Abril 2026,Materiales,25456.5
+PRY-004,Noviembre 2026,Servicios básicos,20167.5
+PRY-015,Junio 2026,Materiales,35153.5
+PRY-002,Enero 2026,Servicios básicos,30839.5
+PRY-013,Agosto 2026,Materiales,45825.5
+PRY-024,Marzo 2026,Servicios básicos,15411.5
+PRY-010,Octubre 2026,Materiales,6022.5
+PRY-021,Mayo 2026,Servicios básicos,25108.5
+PRY-007,Enero 2026,Materiales,15719.5
+PRY-018,Agosto 2026,Personal,31115.5
+PRY-004,Marzo 2026,Transporte,25826.5
+PRY-015,Octubre 2026,Personal,40812.5
+PRY-001,Mayo 2026,Transporte,35523.5
+PRY-012,Diciembre 2026,Personal,1009.5
+PRY-023,Julio 2026,Transporte,20095.5
+PRY-009,Febrero 2026,Personal,10706.5
+PRY-020,Septiembre 2026,Transporte,29792.5
+PRY-006,Abril 2026,Personal,20403.5
+PRY-017,Noviembre 2026,Transporte,39489.5
+PRY-003,Junio 2026,Personal,30100.5
+PRY-015,Enero 2026,Transporte,661.5
+PRY-001,Agosto 2026,Personal,40772.5
+PRY-012,Marzo 2026,Transporte,10358.5
+PRY-023,Octubre 2026,Personal,25344.5
+PRY-009,Mayo 2026,Transporte,20055.5
+PRY-020,Diciembre 2026,Personal,35041.5
+PRY-006,Julio 2026,Transporte,29752.5
+PRY-017,Febrero 2026,Personal,44738.5
+PRY-003,Septiembre 2026,Transporte,39449.5
+PRY-014,Abril 2026,Personal,4935.5
+PRY-025,Noviembre 2026,Transporte,24021.5
+PRY-011,Junio 2026,Personal,14632.5
+PRY-022,Enero 2026,Transporte,33718.5
+PRY-008,Agosto 2026,Personal,24329.5
+PRY-019,Marzo 2026,Transporte,43415.5
+PRY-005,Octubre 2026,Personal,34026.5
+PRY-016,Mayo 2026,Transporte,3612.5
+PRY-003,Enero 2026,Personal,44698.5
+PRY-014,Agosto 2026,Transporte,14284.5
+PRY-025,Marzo 2026,Personal,29270.5
+PRY-011,Octubre 2026,Comunicación y marketing,24391.5
+PRY-022,Mayo 2026,Equipamiento,39377.5
+PRY-008,Diciembre 2026,Comunicación y marketing,34088.5
+PRY-019,Julio 2026,Equipamiento,49074.5
+PRY-005,Febrero 2026,Comunicación y marketing,43785.5
+PRY-016,Septiembre 2026,Equipamiento,9271.5
+PRY-002,Abril 2026,Comunicación y marketing,3982.5
+PRY-013,Noviembre 2026,Equipamiento,18968.5
+PRY-024,Junio 2026,Comunicación y marketing,38054.5
+PRY-010,Enero 2026,Equipamiento,28665.5
+PRY-021,Agosto 2026,Comunicación y marketing,47751.5
+PRY-007,Marzo 2026,Equipamiento,38362.5
+PRY-018,Octubre 2026,Comunicación y marketing,7948.5
+PRY-004,Mayo 2026,Equipamiento,48059.5
+PRY-016,Diciembre 2026,Comunicación y marketing,18620.5
+PRY-002,Julio 2026,Equipamiento,9231.5
+PRY-013,Febrero 2026,Comunicación y marketing,28317.5
+PRY-024,Septiembre 2026,Equipamiento,43303.5
+PRY-010,Abril 2026,Comunicación y marketing,38014.5
+PRY-021,Noviembre 2026,Equipamiento,3500.5
+PRY-007,Junio 2026,Comunicación y marketing,47711.5
+PRY-018,Enero 2026,Equipamiento,13197.5
+PRY-004,Agosto 2026,Comunicación y marketing,7908.5
+PRY-015,Marzo 2026,Equipamiento,22894.5
+PRY-001,Octubre 2026,Comunicación y marketing,17605.5
+PRY-012,Mayo 2026,Equipamiento,32591.5
+PRY-023,Enero 2026,Comunicación y marketing,2177.5
+PRY-009,Agosto 2026,Equipamiento,42288.5
+PRY-020,Marzo 2026,Comunicación y marketing,11874.5
+PRY-006,Octubre 2026,Equipamiento,2485.5
+PRY-017,Mayo 2026,Comunicación y marketing,21571.5
+PRY-004,Diciembre 2026,Servicios profesionales,13567.5
+PRY-015,Julio 2026,Capacitación,32653.5
+PRY-001,Febrero 2026,Servicios profesionales,23264.5
+PRY-012,Septiembre 2026,Capacitación,42350.5
+PRY-023,Abril 2026,Servicios profesionales,7836.5
+PRY-009,Noviembre 2026,Capacitación,2547.5
+PRY-020,Junio 2026,Servicios profesionales,17533.5
+PRY-006,Enero 2026,Capacitación,12244.5
+PRY-017,Agosto 2026,Servicios profesionales,27230.5
+PRY-003,Marzo 2026,Capacitación,21941.5
+PRY-014,Octubre 2026,Servicios profesionales,36927.5
+PRY-025,Mayo 2026,Capacitación,6513.5
+PRY-011,Diciembre 2026,Servicios profesionales,46624.5
+PRY-022,Julio 2026,Capacitación,16210.5
+PRY-008,Febrero 2026,Servicios profesionales,6821.5
+PRY-019,Septiembre 2026,Capacitación,25907.5
+PRY-005,Abril 2026,Servicios profesionales,16518.5
+PRY-017,Noviembre 2026,Capacitación,36579.5
+PRY-003,Junio 2026,Servicios profesionales,27190.5
+PRY-014,Enero 2026,Capacitación,46276.5
+PRY-025,Agosto 2026,Servicios profesionales,11762.5
+PRY-011,Marzo 2026,Capacitación,6473.5
+PRY-022,Octubre 2026,Servicios profesionales,21459.5
+PRY-008,Mayo 2026,Capacitación,16170.5
+PRY-019,Enero 2026,Servicios profesionales,31156.5
+PRY-005,Agosto 2026,Capacitación,25867.5
+PRY-016,Marzo 2026,Servicios profesionales,40853.5
+PRY-002,Octubre 2026,Capacitación,35564.5
+PRY-013,Mayo 2026,Servicios profesionales,1050.5
+PRY-024,Diciembre 2026,Capacitación,20136.5
+PRY-010,Julio 2026,Servicios profesionales,10747.5
+PRY-021,Febrero 2026,Mantenimiento,30243.5
+PRY-007,Septiembre 2026,Software y licencias,20854.5
+PRY-018,Abril 2026,Mantenimiento,39940.5
+PRY-005,Noviembre 2026,Software y licencias,31526.5
+PRY-016,Junio 2026,Mantenimiento,1112.5
+PRY-002,Enero 2026,Software y licencias,41223.5
+PRY-013,Agosto 2026,Mantenimiento,10809.5
+PRY-024,Marzo 2026,Software y licencias,25795.5
+PRY-010,Octubre 2026,Mantenimiento,20506.5
+PRY-021,Mayo 2026,Software y licencias,35492.5
+PRY-007,Diciembre 2026,Mantenimiento,30203.5
+PRY-018,Julio 2026,Software y licencias,45189.5
+PRY-004,Febrero 2026,Mantenimiento,39900.5
+PRY-015,Septiembre 2026,Software y licencias,5386.5
+PRY-001,Abril 2026,Mantenimiento,49597.5
+PRY-012,Noviembre 2026,Software y licencias,15083.5
+PRY-023,Junio 2026,Mantenimiento,34169.5
+PRY-009,Enero 2026,Software y licencias,24780.5
+PRY-020,Agosto 2026,Mantenimiento,43866.5
+PRY-006,Marzo 2026,Software y licencias,34477.5
+PRY-018,Octubre 2026,Mantenimiento,5038.5
+PRY-004,Mayo 2026,Software y licencias,45149.5
+PRY-015,Enero 2026,Mantenimiento,14735.5
+PRY-001,Agosto 2026,Software y licencias,5346.5
+PRY-012,Marzo 2026,Mantenimiento,24432.5
+PRY-023,Octubre 2026,Software y licencias,39418.5
+PRY-009,Mayo 2026,Mantenimiento,34129.5
+PRY-020,Diciembre 2026,Software y licencias,49115.5
+PRY-006,Julio 2026,Mantenimiento,43826.5
+PRY-017,Febrero 2026,Software y licencias,9312.5
+PRY-003,Septiembre 2026,Mantenimiento,4023.5
+PRY-014,Abril 2026,Materiales,19419.5
+PRY-025,Noviembre 2026,Servicios básicos,38505.5
+PRY-011,Junio 2026,Materiales,29116.5
+PRY-022,Enero 2026,Servicios básicos,48202.5
+PRY-008,Agosto 2026,Materiales,38813.5
+PRY-019,Marzo 2026,Servicios básicos,8399.5
+PRY-006,Octubre 2026,Materiales,49485.5
+PRY-017,Mayo 2026,Servicios básicos,19071.5
+PRY-003,Diciembre 2026,Materiales,9682.5
+PRY-014,Julio 2026,Servicios básicos,28768.5
+PRY-025,Febrero 2026,Materiales,43754.5
+PRY-011,Septiembre 2026,Servicios básicos,38465.5
+PRY-022,Abril 2026,Materiales,3951.5
+PRY-008,Noviembre 2026,Servicios básicos,48162.5
+PRY-019,Junio 2026,Materiales,13648.5
+PRY-005,Enero 2026,Servicios básicos,8359.5
+PRY-016,Agosto 2026,Materiales,23345.5
+PRY-002,Marzo 2026,Servicios básicos,18056.5
+PRY-013,Octubre 2026,Materiales,33042.5
+PRY-024,Mayo 2026,Servicios básicos,2628.5
+PRY-010,Enero 2026,Materiales,42739.5
+PRY-021,Agosto 2026,Servicios básicos,12325.5
+PRY-007,Marzo 2026,Materiales,2936.5
+PRY-019,Octubre 2026,Servicios básicos,22997.5
+PRY-005,Mayo 2026,Materiales,13608.5
+PRY-016,Diciembre 2026,Servicios básicos,32694.5
+PRY-002,Julio 2026,Materiales,23305.5
+PRY-013,Febrero 2026,Servicios básicos,42391.5
+PRY-024,Septiembre 2026,Materiales,7877.5
+PRY-010,Abril 2026,Servicios básicos,2588.5
+PRY-021,Noviembre 2026,Materiales,17574.5
+PRY-007,Junio 2026,Personal,8595.5
+PRY-018,Enero 2026,Transporte,27681.5
+PRY-004,Agosto 2026,Personal,18292.5
+PRY-015,Marzo 2026,Transporte,37378.5
+PRY-001,Octubre 2026,Personal,27989.5
+PRY-012,Mayo 2026,Transporte,47075.5
+PRY-023,Diciembre 2026,Personal,12561.5
+PRY-009,Julio 2026,Transporte,7272.5
+PRY-020,Febrero 2026,Personal,22258.5
+PRY-007,Septiembre 2026,Transporte,17944.5
+PRY-018,Abril 2026,Personal,32930.5
+PRY-004,Noviembre 2026,Transporte,27641.5
+PRY-015,Junio 2026,Personal,42627.5
+PRY-001,Enero 2026,Transporte,37338.5
+PRY-012,Agosto 2026,Personal,2824.5
+PRY-023,Marzo 2026,Transporte,21910.5
+PRY-009,Octubre 2026,Personal,12521.5
+PRY-020,Mayo 2026,Transporte,31607.5
+PRY-006,Enero 2026,Personal,22218.5
+PRY-017,Agosto 2026,Transporte,41304.5
+PRY-003,Marzo 2026,Personal,31915.5
+PRY-014,Octubre 2026,Transporte,1501.5
+PRY-025,Mayo 2026,Personal,16487.5
+PRY-011,Diciembre 2026,Transporte,11198.5
+PRY-022,Julio 2026,Personal,26184.5
+PRY-008,Febrero 2026,Transporte,20895.5
+PRY-020,Septiembre 2026,Personal,36856.5
+PRY-006,Abril 2026,Transporte,31567.5
+PRY-017,Noviembre 2026,Personal,46553.5
+PRY-003,Junio 2026,Transporte,41264.5
+PRY-014,Enero 2026,Personal,6750.5
+PRY-025,Agosto 2026,Comunicación y marketing,26246.5
+PRY-011,Marzo 2026,Equipamiento,16857.5
+PRY-022,Octubre 2026,Comunicación y marketing,35943.5
+PRY-008,Mayo 2026,Equipamiento,26554.5
+PRY-019,Diciembre 2026,Comunicación y marketing,45640.5
+PRY-005,Julio 2026,Equipamiento,36251.5
+PRY-016,Febrero 2026,Comunicación y marketing,5837.5
+PRY-002,Septiembre 2026,Equipamiento,45948.5
+PRY-013,Abril 2026,Comunicación y marketing,15534.5
+PRY-024,Noviembre 2026,Equipamiento,30520.5
+PRY-010,Junio 2026,Comunicación y marketing,25231.5
+PRY-021,Enero 2026,Equipamiento,40217.5
+PRY-008,Agosto 2026,Comunicación y marketing,35903.5
+PRY-019,Marzo 2026,Equipamiento,1389.5
+PRY-005,Octubre 2026,Comunicación y marketing,45600.5
+PRY-016,Mayo 2026,Equipamiento,11086.5
+PRY-002,Enero 2026,Comunicación y marketing,5797.5
+PRY-013,Agosto 2026,Equipamiento,20783.5
+PRY-024,Marzo 2026,Comunicación y marketing,39869.5
+PRY-010,Octubre 2026,Equipamiento,30480.5
+PRY-021,Mayo 2026,Comunicación y marketing,49566.5
+PRY-007,Diciembre 2026,Equipamiento,40177.5
+PRY-018,Julio 2026,Comunicación y marketing,9763.5
+PRY-004,Febrero 2026,Equipamiento,49874.5
+PRY-015,Septiembre 2026,Comunicación y marketing,19460.5
+PRY-001,Abril 2026,Equipamiento,10071.5
+PRY-012,Noviembre 2026,Comunicación y marketing,29157.5
+PRY-023,Junio 2026,Equipamiento,44143.5
+PRY-009,Enero 2026,Comunicación y marketing,38854.5
+PRY-021,Agosto 2026,Equipamiento,5315.5
+PRY-007,Marzo 2026,Comunicación y marketing,49526.5
+PRY-018,Octubre 2026,Servicios profesionales,15422.5
+PRY-004,Mayo 2026,Capacitación,10133.5
+PRY-015,Diciembre 2026,Servicios profesionales,25119.5
+PRY-001,Julio 2026,Capacitación,19830.5
+PRY-012,Febrero 2026,Servicios profesionales,34816.5
+PRY-023,Septiembre 2026,Capacitación,4402.5
+PRY-009,Abril 2026,Servicios profesionales,44513.5
+PRY-020,Noviembre 2026,Capacitación,14099.5
+PRY-006,Junio 2026,Servicios profesionales,4710.5
+PRY-017,Enero 2026,Capacitación,23796.5
+PRY-003,Agosto 2026,Servicios profesionales,14407.5
+PRY-014,Marzo 2026,Capacitación,33493.5
+PRY-025,Octubre 2026,Servicios profesionales,48479.5
+PRY-011,Mayo 2026,Capacitación,43190.5
+PRY-022,Enero 2026,Servicios profesionales,8676.5
+PRY-009,Agosto 2026,Capacitación,4362.5
+PRY-020,Marzo 2026,Servicios profesionales,19348.5
+PRY-006,Octubre 2026,Capacitación,14059.5
+PRY-017,Mayo 2026,Servicios profesionales,29045.5
+PRY-003,Diciembre 2026,Capacitación,23756.5
+PRY-014,Julio 2026,Servicios profesionales,38742.5
+PRY-025,Febrero 2026,Capacitación,8328.5
+PRY-011,Septiembre 2026,Servicios profesionales,48439.5
+PRY-022,Abril 2026,Capacitación,18025.5
+PRY-008,Noviembre 2026,Servicios profesionales,8636.5
+PRY-019,Junio 2026,Capacitación,27722.5
+PRY-005,Enero 2026,Servicios profesionales,18333.5
+PRY-016,Agosto 2026,Capacitación,37419.5
+PRY-002,Marzo 2026,Servicios profesionales,28030.5
+PRY-013,Octubre 2026,Capacitación,47116.5
+PRY-024,Mayo 2026,Servicios profesionales,12602.5
+PRY-010,Diciembre 2026,Mantenimiento,7723.5
+PRY-022,Julio 2026,Software y licencias,23684.5
+PRY-008,Febrero 2026,Mantenimiento,18395.5
+PRY-019,Septiembre 2026,Software y licencias,33381.5
+PRY-005,Abril 2026,Mantenimiento,28092.5
+PRY-016,Noviembre 2026,Software y licencias,43078.5
+PRY-002,Junio 2026,Mantenimiento,37789.5
+PRY-013,Enero 2026,Software y licencias,3275.5
+PRY-024,Agosto 2026,Mantenimiento,22361.5
+PRY-010,Marzo 2026,Software y licencias,12972.5
+PRY-021,Octubre 2026,Mantenimiento,32058.5
+PRY-007,Mayo 2026,Software y licencias,22669.5
+PRY-018,Enero 2026,Mantenimiento,41755.5
+PRY-004,Agosto 2026,Software y licencias,32366.5
+PRY-015,Marzo 2026,Mantenimiento,1952.5
+PRY-001,Octubre 2026,Software y licencias,42063.5
+PRY-012,Mayo 2026,Mantenimiento,11649.5
+PRY-023,Diciembre 2026,Software y licencias,26635.5
+PRY-010,Julio 2026,Mantenimiento,22321.5
+PRY-021,Febrero 2026,Software y licencias,37307.5
+PRY-007,Septiembre 2026,Mantenimiento,32018.5
+PRY-018,Abril 2026,Software y licencias,47004.5
+PRY-004,Noviembre 2026,Mantenimiento,41715.5
+PRY-015,Junio 2026,Software y licencias,7201.5
+PRY-001,Enero 2026,Mantenimiento,1912.5
+PRY-012,Agosto 2026,Software y licencias,16898.5
+PRY-023,Marzo 2026,Mantenimiento,35984.5
+PRY-009,Octubre 2026,Software y licencias,26595.5
+PRY-020,Mayo 2026,Mantenimiento,45681.5
+PRY-006,Diciembre 2026,Software y licencias,36292.5
+PRY-017,Julio 2026,Mantenimiento,5878.5
+PRY-003,Febrero 2026,Materiales,46399.5
+PRY-014,Septiembre 2026,Servicios básicos,15985.5
+PRY-025,Abril 2026,Materiales,30971.5
+PRY-011,Noviembre 2026,Servicios básicos,25682.5
+PRY-023,Junio 2026,Materiales,41643.5
+PRY-009,Enero 2026,Servicios básicos,36354.5
+PRY-020,Agosto 2026,Materiales,1840.5
+PRY-006,Marzo 2026,Servicios básicos,46051.5
+PRY-017,Octubre 2026,Materiales,11537.5
+PRY-003,Mayo 2026,Servicios básicos,6248.5
+PRY-014,Enero 2026,Materiales,21234.5
+PRY-025,Agosto 2026,Servicios básicos,40320.5
+PRY-011,Marzo 2026,Materiales,30931.5
+PRY-022,Octubre 2026,Servicios básicos,517.5
+PRY-008,Mayo 2026,Materiales,40628.5
+PRY-019,Diciembre 2026,Servicios básicos,10214.5
+PRY-005,Julio 2026,Materiales,825.5
+PRY-016,Febrero 2026,Servicios básicos,19911.5
+PRY-002,Septiembre 2026,Materiales,10522.5
+PRY-013,Abril 2026,Servicios básicos,29608.5
+PRY-024,Noviembre 2026,Materiales,44594.5
+PRY-011,Junio 2026,Servicios básicos,40280.5
+PRY-022,Enero 2026,Materiales,5766.5
+PRY-008,Agosto 2026,Servicios básicos,477.5
+PRY-019,Marzo 2026,Materiales,15463.5
+PRY-005,Octubre 2026,Servicios básicos,10174.5
+PRY-016,Mayo 2026,Materiales,25160.5
+PRY-002,Diciembre 2026,Servicios básicos,19871.5
+PRY-013,Julio 2026,Materiales,34857.5
+PRY-024,Febrero 2026,Servicios básicos,4443.5
+PRY-010,Septiembre 2026,Materiales,44554.5
+PRY-021,Abril 2026,Personal,10450.5
+PRY-007,Noviembre 2026,Transporte,5161.5
+PRY-018,Junio 2026,Personal,20147.5
+PRY-004,Enero 2026,Transporte,14858.5
+PRY-015,Agosto 2026,Personal,29844.5
+PRY-001,Marzo 2026,Transporte,24555.5
+PRY-012,Octubre 2026,Personal,39541.5
+PRY-024,Mayo 2026,Transporte,10102.5
+PRY-010,Enero 2026,Personal,713.5
+PRY-021,Agosto 2026,Transporte,19799.5
+PRY-007,Marzo 2026,Personal,10410.5
+PRY-018,Octubre 2026,Transporte,29496.5
+PRY-004,Mayo 2026,Personal,20107.5
+PRY-015,Diciembre 2026,Transporte,39193.5
+PRY-001,Julio 2026,Personal,29804.5
+PRY-012,Febrero 2026,Transporte,48890.5
+PRY-023,Septiembre 2026,Personal,14376.5
+PRY-009,Abril 2026,Transporte,9087.5
+PRY-020,Noviembre 2026,Personal,24073.5
+PRY-006,Junio 2026,Transporte,18784.5
+PRY-017,Enero 2026,Personal,33770.5
+PRY-003,Agosto 2026,Transporte,28481.5
+PRY-014,Marzo 2026,Personal,43467.5
+PRY-025,Octubre 2026,Transporte,13053.5
+PRY-012,Mayo 2026,Personal,4639.5
+PRY-023,Diciembre 2026,Transporte,23725.5
+PRY-009,Julio 2026,Personal,14336.5
+PRY-020,Febrero 2026,Transporte,33422.5
+PRY-006,Septiembre 2026,Personal,24033.5
+PRY-017,Abril 2026,Transporte,43119.5
+PRY-003,Noviembre 2026,Personal,33730.5
+PRY-014,Junio 2026,Comunicación y marketing,3726.5
+PRY-025,Enero 2026,Equipamiento,18712.5
+PRY-011,Agosto 2026,Comunicación y marketing,13423.5
+PRY-022,Marzo 2026,Equipamiento,28409.5
+PRY-008,Octubre 2026,Comunicación y marketing,23120.5
+PRY-019,Mayo 2026,Equipamiento,38106.5
+PRY-005,Enero 2026,Comunicación y marketing,32817.5
+PRY-016,Agosto 2026,Equipamiento,47803.5
+PRY-002,Marzo 2026,Comunicación y marketing,42514.5
+PRY-013,Octubre 2026,Equipamiento,8000.5
+PRY-025,Mayo 2026,Comunicación y marketing,28061.5
+PRY-011,Diciembre 2026,Equipamiento,18672.5
+PRY-022,Julio 2026,Comunicación y marketing,37758.5
+PRY-008,Febrero 2026,Equipamiento,28369.5
+PRY-019,Septiembre 2026,Comunicación y marketing,47455.5
+PRY-005,Abril 2026,Equipamiento,38066.5
+PRY-016,Noviembre 2026,Comunicación y marketing,7652.5
+PRY-002,Junio 2026,Equipamiento,47763.5
+PRY-013,Enero 2026,Comunicación y marketing,17349.5
+PRY-024,Agosto 2026,Equipamiento,32335.5
+PRY-010,Marzo 2026,Comunicación y marketing,27046.5
+PRY-021,Octubre 2026,Equipamiento,42032.5
+PRY-007,Mayo 2026,Comunicación y marketing,36743.5
+PRY-018,Diciembre 2026,Equipamiento,2229.5
+PRY-004,Julio 2026,Comunicación y marketing,46440.5
+PRY-015,Febrero 2026,Equipamiento,11926.5
+PRY-001,Septiembre 2026,Comunicación y marketing,6637.5
+PRY-013,Abril 2026,Equipamiento,22598.5
+PRY-024,Noviembre 2026,Comunicación y marketing,41684.5
+PRY-010,Junio 2026,Equipamiento,32295.5
+PRY-021,Enero 2026,Comunicación y marketing,1881.5
+PRY-007,Agosto 2026,Servicios profesionales,42402.5
+PRY-018,Marzo 2026,Capacitación,11988.5
+PRY-004,Octubre 2026,Servicios profesionales,2599.5
+PRY-015,Mayo 2026,Capacitación,21685.5
+PRY-001,Enero 2026,Servicios profesionales,12296.5
+PRY-012,Agosto 2026,Capacitación,31382.5
+PRY-023,Marzo 2026,Servicios profesionales,46368.5
+PRY-009,Octubre 2026,Capacitación,41079.5
+PRY-020,Mayo 2026,Servicios profesionales,6565.5
+PRY-006,Diciembre 2026,Capacitación,1276.5
+PRY-017,Julio 2026,Servicios profesionales,16262.5
+PRY-003,Febrero 2026,Capacitación,10973.5
+PRY-014,Septiembre 2026,Servicios profesionales,25959.5
+PRY-001,Abril 2026,Capacitación,21645.5
+PRY-012,Noviembre 2026,Servicios profesionales,36631.5
+PRY-023,Junio 2026,Capacitación,6217.5
+PRY-009,Enero 2026,Servicios profesionales,46328.5
+PRY-020,Agosto 2026,Capacitación,15914.5
+PRY-006,Marzo 2026,Servicios profesionales,6525.5
+PRY-017,Octubre 2026,Capacitación,25611.5
+PRY-003,Mayo 2026,Servicios profesionales,16222.5
+PRY-014,Diciembre 2026,Capacitación,35308.5
+PRY-025,Julio 2026,Servicios profesionales,794.5
+PRY-011,Febrero 2026,Capacitación,45005.5
+PRY-022,Septiembre 2026,Servicios profesionales,10491.5
+PRY-008,Abril 2026,Capacitación,5202.5
+PRY-019,Noviembre 2026,Servicios profesionales,20188.5
+PRY-005,Junio 2026,Capacitación,14899.5
+PRY-016,Enero 2026,Servicios profesionales,29885.5
+PRY-002,Agosto 2026,Capacitación,24596.5
+PRY-014,Marzo 2026,Servicios profesionales,40557.5
+PRY-025,Octubre 2026,Mantenimiento,10553.5
+PRY-011,Mayo 2026,Software y licencias,1164.5
+PRY-022,Enero 2026,Mantenimiento,20250.5
+PRY-008,Agosto 2026,Software y licencias,10861.5
+PRY-019,Marzo 2026,Mantenimiento,29947.5
+PRY-005,Octubre 2026,Software y licencias,20558.5
+PRY-016,Mayo 2026,Mantenimiento,39644.5
+PRY-002,Diciembre 2026,Software y licencias,30255.5
+PRY-013,Julio 2026,Mantenimiento,49341.5
+PRY-024,Febrero 2026,Software y licencias,14827.5
+PRY-010,Septiembre 2026,Mantenimiento,9538.5
+PRY-021,Abril 2026,Software y licencias,24524.5
+PRY-007,Noviembre 2026,Mantenimiento,19235.5
+PRY-018,Junio 2026,Software y licencias,34221.5
+PRY-004,Enero 2026,Mantenimiento,28932.5
+PRY-015,Agosto 2026,Software y licencias,43918.5
+PRY-002,Marzo 2026,Mantenimiento,39604.5
+PRY-013,Octubre 2026,Software y licencias,5090.5
+PRY-024,Mayo 2026,Mantenimiento,24176.5
+PRY-010,Diciembre 2026,Software y licencias,14787.5
+PRY-021,Julio 2026,Mantenimiento,33873.5
+PRY-007,Febrero 2026,Software y licencias,24484.5
+PRY-018,Septiembre 2026,Mantenimiento,43570.5
+PRY-004,Abril 2026,Software y licencias,34181.5
+PRY-015,Noviembre 2026,Mantenimiento,3767.5
+PRY-001,Junio 2026,Software y licencias,43878.5
+PRY-012,Enero 2026,Mantenimiento,13464.5
+PRY-023,Agosto 2026,Software y licencias,28450.5
+PRY-009,Marzo 2026,Mantenimiento,23161.5
+PRY-020,Octubre 2026,Software y licencias,38147.5
+PRY-006,Mayo 2026,Mantenimiento,32858.5
+PRY-017,Enero 2026,Materiales,48254.5
+PRY-003,Agosto 2026,Servicios básicos,42965.5
+PRY-015,Marzo 2026,Materiales,9426.5
+PRY-001,Octubre 2026,Servicios básicos,4137.5
+PRY-012,Mayo 2026,Materiales,19123.5
+PRY-023,Diciembre 2026,Servicios básicos,38209.5
+PRY-009,Julio 2026,Materiales,28820.5
+PRY-020,Febrero 2026,Servicios básicos,47906.5
+PRY-006,Septiembre 2026,Materiales,38517.5
+PRY-017,Abril 2026,Servicios básicos,8103.5
+PRY-003,Noviembre 2026,Materiales,48214.5
+PRY-014,Junio 2026,Servicios básicos,17800.5
+PRY-025,Enero 2026,Materiales,32786.5
+PRY-011,Agosto 2026,Servicios básicos,27497.5
+PRY-022,Marzo 2026,Materiales,42483.5
+PRY-008,Octubre 2026,Servicios básicos,37194.5
+PRY-019,Mayo 2026,Materiales,2680.5
+PRY-005,Diciembre 2026,Servicios básicos,46891.5
+PRY-016,Julio 2026,Materiales,12377.5
+PRY-003,Febrero 2026,Servicios básicos,8063.5
+PRY-014,Septiembre 2026,Materiales,23049.5
+PRY-025,Abril 2026,Servicios básicos,42135.5
+PRY-011,Noviembre 2026,Materiales,32746.5
+PRY-022,Junio 2026,Servicios básicos,2332.5
+PRY-008,Enero 2026,Materiales,42443.5
+PRY-019,Agosto 2026,Servicios básicos,12029.5
+PRY-005,Marzo 2026,Materiales,2640.5
+PRY-016,Octubre 2026,Servicios básicos,21726.5
+PRY-002,Mayo 2026,Materiales,12337.5
+PRY-013,Enero 2026,Servicios básicos,31423.5
+PRY-024,Agosto 2026,Materiales,46409.5
+PRY-010,Marzo 2026,Personal,37430.5
+PRY-021,Octubre 2026,Transporte,7016.5
+PRY-007,Mayo 2026,Personal,47127.5
+PRY-018,Diciembre 2026,Transporte,16713.5
+PRY-004,Julio 2026,Personal,7324.5
+PRY-016,Febrero 2026,Transporte,27385.5
+PRY-002,Septiembre 2026,Personal,17996.5
+PRY-013,Abril 2026,Transporte,37082.5
+PRY-024,Noviembre 2026,Personal,2568.5
+PRY-010,Junio 2026,Transporte,46779.5
+PRY-021,Enero 2026,Personal,12265.5
+PRY-007,Agosto 2026,Transporte,6976.5
+PRY-018,Marzo 2026,Personal,21962.5
+PRY-004,Octubre 2026,Transporte,16673.5
+PRY-015,Mayo 2026,Personal,31659.5
+PRY-001,Diciembre 2026,Transporte,26370.5
+PRY-012,Julio 2026,Personal,41356.5
+PRY-023,Febrero 2026,Transporte,10942.5
+PRY-009,Septiembre 2026,Personal,1553.5
+PRY-020,Abril 2026,Transporte,20639.5
+PRY-006,Noviembre 2026,Personal,11250.5
+PRY-017,Junio 2026,Transporte,30336.5
+PRY-004,Enero 2026,Personal,21922.5
+PRY-015,Agosto 2026,Transporte,41008.5
+PRY-001,Marzo 2026,Personal,31619.5
+PRY-012,Octubre 2026,Transporte,1205.5
+PRY-023,Mayo 2026,Personal,16191.5
+PRY-009,Enero 2026,Transporte,10902.5
+PRY-020,Agosto 2026,Personal,25888.5
+PRY-006,Marzo 2026,Transporte,20599.5
+PRY-017,Octubre 2026,Personal,35585.5
+PRY-003,Mayo 2026,Comunicación y marketing,30706.5
+PRY-014,Diciembre 2026,Equipamiento,45692.5
+PRY-025,Julio 2026,Comunicación y marketing,15278.5
+PRY-011,Febrero 2026,Equipamiento,5889.5
+PRY-022,Septiembre 2026,Comunicación y marketing,24975.5
+PRY-008,Abril 2026,Equipamiento,15586.5
+PRY-019,Noviembre 2026,Comunicación y marketing,34672.5
+PRY-005,Junio 2026,Equipamiento,25283.5
+PRY-017,Enero 2026,Comunicación y marketing,45344.5
+PRY-003,Agosto 2026,Equipamiento,35955.5
+PRY-014,Marzo 2026,Comunicación y marketing,5541.5
+PRY-025,Octubre 2026,Equipamiento,20527.5
+PRY-011,Mayo 2026,Comunicación y marketing,15238.5
+PRY-022,Diciembre 2026,Equipamiento,30224.5
+PRY-008,Julio 2026,Comunicación y marketing,24935.5
+PRY-019,Febrero 2026,Equipamiento,39921.5
+PRY-005,Septiembre 2026,Comunicación y marketing,34632.5
+PRY-016,Abril 2026,Equipamiento,49618.5
+PRY-002,Noviembre 2026,Comunicación y marketing,44329.5
+PRY-013,Junio 2026,Equipamiento,9815.5
+PRY-024,Enero 2026,Comunicación y marketing,28901.5
+PRY-010,Agosto 2026,Equipamiento,19512.5
+PRY-021,Marzo 2026,Comunicación y marketing,38598.5
+PRY-007,Octubre 2026,Equipamiento,29209.5
+PRY-018,Mayo 2026,Comunicación y marketing,48295.5
+PRY-005,Enero 2026,Equipamiento,39881.5
+PRY-016,Agosto 2026,Comunicación y marketing,9467.5
+PRY-002,Marzo 2026,Equipamiento,49578.5
+PRY-013,Octubre 2026,Comunicación y marketing,19164.5
+PRY-024,Mayo 2026,Equipamiento,34150.5
+PRY-010,Diciembre 2026,Comunicación y marketing,28861.5
+PRY-021,Julio 2026,Servicios profesionales,44257.5
+PRY-007,Febrero 2026,Capacitación,38968.5
+PRY-018,Septiembre 2026,Servicios profesionales,4454.5
+PRY-004,Abril 2026,Capacitación,48665.5
+PRY-015,Noviembre 2026,Servicios profesionales,14151.5
+PRY-001,Junio 2026,Capacitación,8862.5
+PRY-012,Enero 2026,Servicios profesionales,23848.5
+PRY-023,Agosto 2026,Capacitación,42934.5

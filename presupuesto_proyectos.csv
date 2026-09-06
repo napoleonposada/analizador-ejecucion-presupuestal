@@ -1,0 +1,1001 @@
+codigo proyecto,nombre proyecto,mes presupuesto,partida presupuesto,monto presupuesto
+PRY-001,Ampliación de oficina central,Enero 2026,Personal,3500.75
+PRY-008,Centro de atención al cliente,Junio 2026,Software y licencias,22794.75
+PRY-015,Migración de datos corporativos,Noviembre 2026,Comunicación y marketing,42088.75
+PRY-022,Programa de fidelización,Abril 2026,Contingencias,61382.75
+PRY-004,Programa de capacitación comercial,Septiembre 2026,Servicios profesionales,40676.75
+PRY-011,Expansión de almacenes,Febrero 2026,Transporte,59970.75
+PRY-018,Apertura de sede sur,Julio 2026,Mantenimiento,79264.75
+PRY-025,Resiliencia y continuidad operativa,Diciembre 2026,Equipamiento,89808.75
+PRY-007,Optimización de cadena de suministro,Mayo 2026,Materiales,77852.75
+PRY-014,Equipamiento de laboratorio,Octubre 2026,Capacitación,97146.75
+PRY-021,Optimización energética,Marzo 2026,Personal,107690.75
+PRY-003,Implementación de CRM,Agosto 2026,Software y licencias,95734.75
+PRY-010,Plan de seguridad operativa,Enero 2026,Comunicación y marketing,115028.75
+PRY-017,Mantenimiento de flota,Junio 2026,Contingencias,12822.75
+PRY-024,Gestión documental,Noviembre 2026,Servicios profesionales,23366.75
+PRY-006,Campaña de posicionamiento regional,Abril 2026,Transporte,11410.75
+PRY-013,Programa de sostenibilidad,Septiembre 2026,Mantenimiento,30704.75
+PRY-020,Actualización de marca,Febrero 2026,Equipamiento,41248.75
+PRY-002,Modernización de planta norte,Julio 2026,Materiales,29292.75
+PRY-010,Plan de seguridad operativa,Diciembre 2026,Capacitación,49836.75
+PRY-017,Mantenimiento de flota,Mayo 2026,Personal,60380.75
+PRY-024,Gestión documental,Octubre 2026,Software y licencias,79674.75
+PRY-006,Campaña de posicionamiento regional,Marzo 2026,Comunicación y marketing,67718.75
+PRY-013,Programa de sostenibilidad,Agosto 2026,Personal,79137.75
+PRY-020,Actualización de marca,Enero 2026,Software y licencias,98431.75
+PRY-002,Modernización de planta norte,Junio 2026,Comunicación y marketing,86475.75
+PRY-009,Desarrollo de portal web,Noviembre 2026,Contingencias,105769.75
+PRY-016,Rediseño de experiencia móvil,Abril 2026,Servicios profesionales,116313.75
+PRY-023,Renovación de puntos de venta,Septiembre 2026,Transporte,14107.75
+PRY-005,Renovación de infraestructura TI,Febrero 2026,Mantenimiento,123651.75
+PRY-012,Automatización de reportes,Julio 2026,Equipamiento,12695.75
+PRY-019,Proyecto de analítica avanzada,Diciembre 2026,Materiales,31989.75
+PRY-001,Ampliación de oficina central,Mayo 2026,Capacitación,20033.75
+PRY-008,Centro de atención al cliente,Octubre 2026,Personal,30577.75
+PRY-015,Migración de datos corporativos,Marzo 2026,Software y licencias,49871.75
+PRY-022,Programa de fidelización,Agosto 2026,Comunicación y marketing,69165.75
+PRY-004,Programa de capacitación comercial,Enero 2026,Contingencias,57209.75
+PRY-011,Expansión de almacenes,Julio 2026,Servicios profesionales,67753.75
+PRY-019,Proyecto de analítica avanzada,Diciembre 2026,Transporte,88297.75
+PRY-001,Ampliación de oficina central,Mayo 2026,Mantenimiento,76341.75
+PRY-008,Centro de atención al cliente,Octubre 2026,Equipamiento,86885.75
+PRY-015,Migración de datos corporativos,Marzo 2026,Materiales,106179.75
+PRY-022,Programa de fidelización,Agosto 2026,Capacitación,3973.75
+PRY-004,Programa de capacitación comercial,Enero 2026,Personal,104767.75
+PRY-011,Expansión de almacenes,Junio 2026,Software y licencias,124061.75
+PRY-018,Apertura de sede sur,Noviembre 2026,Comunicación y marketing,21855.75
+PRY-025,Resiliencia y continuidad operativa,Abril 2026,Personal,33274.75
+PRY-007,Optimización de cadena de suministro,Septiembre 2026,Software y licencias,21318.75
+PRY-014,Equipamiento de laboratorio,Febrero 2026,Comunicación y marketing,40612.75
+PRY-021,Optimización energética,Julio 2026,Contingencias,59906.75
+PRY-003,Implementación de CRM,Diciembre 2026,Servicios profesionales,39200.75
+PRY-010,Plan de seguridad operativa,Mayo 2026,Transporte,58494.75
+PRY-017,Mantenimiento de flota,Octubre 2026,Mantenimiento,77788.75
+PRY-024,Gestión documental,Marzo 2026,Equipamiento,88332.75
+PRY-006,Campaña de posicionamiento regional,Agosto 2026,Materiales,76376.75
+PRY-013,Programa de sostenibilidad,Enero 2026,Capacitación,95670.75
+PRY-020,Actualización de marca,Junio 2026,Personal,106214.75
+PRY-003,Implementación de CRM,Noviembre 2026,Software y licencias,95508.75
+PRY-010,Plan de seguridad operativa,Abril 2026,Comunicación y marketing,114802.75
+PRY-017,Mantenimiento de flota,Septiembre 2026,Contingencias,12596.75
+PRY-024,Gestión documental,Febrero 2026,Servicios profesionales,23140.75
+PRY-006,Campaña de posicionamiento regional,Julio 2026,Transporte,11184.75
+PRY-013,Programa de sostenibilidad,Diciembre 2026,Mantenimiento,30478.75
+PRY-020,Actualización de marca,Mayo 2026,Equipamiento,41022.75
+PRY-002,Modernización de planta norte,Octubre 2026,Materiales,29066.75
+PRY-009,Desarrollo de portal web,Marzo 2026,Capacitación,48360.75
+PRY-016,Rediseño de experiencia móvil,Agosto 2026,Personal,58904.75
+PRY-023,Renovación de puntos de venta,Enero 2026,Software y licencias,78198.75
+PRY-005,Renovación de infraestructura TI,Junio 2026,Comunicación y marketing,66242.75
+PRY-012,Automatización de reportes,Noviembre 2026,Personal,77661.75
+PRY-019,Proyecto de analítica avanzada,Abril 2026,Software y licencias,96955.75
+PRY-001,Ampliación de oficina central,Septiembre 2026,Comunicación y marketing,84999.75
+PRY-008,Centro de atención al cliente,Febrero 2026,Contingencias,104293.75
+PRY-015,Migración de datos corporativos,Julio 2026,Servicios profesionales,114837.75
+PRY-022,Programa de fidelización,Enero 2026,Transporte,12631.75
+PRY-004,Programa de capacitación comercial,Junio 2026,Mantenimiento,122175.75
+PRY-012,Automatización de reportes,Noviembre 2026,Equipamiento,12469.75
+PRY-019,Proyecto de analítica avanzada,Abril 2026,Materiales,31763.75
+PRY-001,Ampliación de oficina central,Septiembre 2026,Capacitación,19807.75
+PRY-008,Centro de atención al cliente,Febrero 2026,Personal,30351.75
+PRY-015,Migración de datos corporativos,Julio 2026,Software y licencias,49645.75
+PRY-022,Programa de fidelización,Diciembre 2026,Comunicación y marketing,68939.75
+PRY-004,Programa de capacitación comercial,Mayo 2026,Contingencias,56983.75
+PRY-011,Expansión de almacenes,Octubre 2026,Servicios profesionales,67527.75
+PRY-018,Apertura de sede sur,Marzo 2026,Transporte,86821.75
+PRY-025,Resiliencia y continuidad operativa,Agosto 2026,Mantenimiento,106115.75
+PRY-007,Optimización de cadena de suministro,Enero 2026,Equipamiento,85409.75
+PRY-014,Equipamiento de laboratorio,Junio 2026,Materiales,104703.75
+PRY-021,Optimización energética,Noviembre 2026,Capacitación,123997.75
+PRY-003,Implementación de CRM,Abril 2026,Personal,103291.75
+PRY-010,Plan de seguridad operativa,Septiembre 2026,Software y licencias,122585.75
+PRY-017,Mantenimiento de flota,Febrero 2026,Comunicación y marketing,20379.75
+PRY-024,Gestión documental,Julio 2026,Personal,31798.75
+PRY-006,Campaña de posicionamiento regional,Diciembre 2026,Software y licencias,19842.75
+PRY-013,Programa de sostenibilidad,Mayo 2026,Comunicación y marketing,39136.75
+PRY-021,Optimización energética,Octubre 2026,Contingencias,59680.75
+PRY-003,Implementación de CRM,Marzo 2026,Servicios profesionales,38974.75
+PRY-010,Plan de seguridad operativa,Agosto 2026,Transporte,58268.75
+PRY-017,Mantenimiento de flota,Enero 2026,Mantenimiento,77562.75
+PRY-024,Gestión documental,Junio 2026,Equipamiento,88106.75
+PRY-006,Campaña de posicionamiento regional,Noviembre 2026,Materiales,76150.75
+PRY-013,Programa de sostenibilidad,Abril 2026,Capacitación,95444.75
+PRY-020,Actualización de marca,Septiembre 2026,Personal,105988.75
+PRY-002,Modernización de planta norte,Febrero 2026,Software y licencias,94032.75
+PRY-009,Desarrollo de portal web,Julio 2026,Comunicación y marketing,113326.75
+PRY-016,Rediseño de experiencia móvil,Diciembre 2026,Contingencias,11120.75
+PRY-023,Renovación de puntos de venta,Mayo 2026,Servicios profesionales,21664.75
+PRY-005,Renovación de infraestructura TI,Octubre 2026,Transporte,9708.75
+PRY-012,Automatización de reportes,Marzo 2026,Mantenimiento,29002.75
+PRY-019,Proyecto de analítica avanzada,Agosto 2026,Equipamiento,39546.75
+PRY-001,Ampliación de oficina central,Enero 2026,Materiales,27590.75
+PRY-008,Centro de atención al cliente,Julio 2026,Capacitación,46884.75
+PRY-015,Migración de datos corporativos,Diciembre 2026,Personal,57428.75
+PRY-022,Programa de fidelización,Mayo 2026,Software y licencias,76722.75
+PRY-005,Renovación de infraestructura TI,Octubre 2026,Comunicación y marketing,66016.75
+PRY-012,Automatización de reportes,Marzo 2026,Personal,77435.75
+PRY-019,Proyecto de analítica avanzada,Agosto 2026,Software y licencias,96729.75
+PRY-001,Ampliación de oficina central,Enero 2026,Comunicación y marketing,84773.75
+PRY-008,Centro de atención al cliente,Junio 2026,Contingencias,104067.75
+PRY-015,Migración de datos corporativos,Noviembre 2026,Servicios profesionales,114611.75
+PRY-022,Programa de fidelización,Abril 2026,Transporte,12405.75
+PRY-004,Programa de capacitación comercial,Septiembre 2026,Mantenimiento,121949.75
+PRY-011,Expansión de almacenes,Febrero 2026,Equipamiento,10993.75
+PRY-018,Apertura de sede sur,Julio 2026,Materiales,30287.75
+PRY-025,Resiliencia y continuidad operativa,Diciembre 2026,Capacitación,49581.75
+PRY-007,Optimización de cadena de suministro,Mayo 2026,Personal,28875.75
+PRY-014,Equipamiento de laboratorio,Octubre 2026,Software y licencias,48169.75
+PRY-021,Optimización energética,Marzo 2026,Comunicación y marketing,67463.75
+PRY-003,Implementación de CRM,Agosto 2026,Contingencias,55507.75
+PRY-010,Plan de seguridad operativa,Enero 2026,Servicios profesionales,66051.75
+PRY-017,Mantenimiento de flota,Junio 2026,Transporte,85345.75
+PRY-024,Gestión documental,Noviembre 2026,Mantenimiento,104639.75
+PRY-006,Campaña de posicionamiento regional,Abril 2026,Equipamiento,83933.75
+PRY-014,Equipamiento de laboratorio,Septiembre 2026,Materiales,104477.75
+PRY-021,Optimización energética,Febrero 2026,Capacitación,123771.75
+PRY-003,Implementación de CRM,Julio 2026,Personal,103065.75
+PRY-010,Plan de seguridad operativa,Diciembre 2026,Software y licencias,122359.75
+PRY-017,Mantenimiento de flota,Mayo 2026,Comunicación y marketing,20153.75
+PRY-024,Gestión documental,Octubre 2026,Personal,31572.75
+PRY-006,Campaña de posicionamiento regional,Marzo 2026,Software y licencias,19616.75
+PRY-013,Programa de sostenibilidad,Agosto 2026,Comunicación y marketing,38910.75
+PRY-020,Actualización de marca,Enero 2026,Contingencias,58204.75
+PRY-002,Modernización de planta norte,Junio 2026,Servicios profesionales,37498.75
+PRY-009,Desarrollo de portal web,Noviembre 2026,Transporte,56792.75
+PRY-016,Rediseño de experiencia móvil,Abril 2026,Mantenimiento,76086.75
+PRY-023,Renovación de puntos de venta,Septiembre 2026,Equipamiento,86630.75
+PRY-005,Renovación de infraestructura TI,Febrero 2026,Materiales,74674.75
+PRY-012,Automatización de reportes,Julio 2026,Capacitación,93968.75
+PRY-019,Proyecto de analítica avanzada,Enero 2026,Personal,104512.75
+PRY-001,Ampliación de oficina central,Junio 2026,Software y licencias,92556.75
+PRY-008,Centro de atención al cliente,Noviembre 2026,Comunicación y marketing,111850.75
+PRY-015,Migración de datos corporativos,Abril 2026,Contingencias,9644.75
+PRY-023,Renovación de puntos de venta,Septiembre 2026,Servicios profesionales,21438.75
+PRY-005,Renovación de infraestructura TI,Febrero 2026,Transporte,9482.75
+PRY-012,Automatización de reportes,Julio 2026,Mantenimiento,28776.75
+PRY-019,Proyecto de analítica avanzada,Diciembre 2026,Equipamiento,39320.75
+PRY-001,Ampliación de oficina central,Mayo 2026,Materiales,27364.75
+PRY-008,Centro de atención al cliente,Octubre 2026,Capacitación,46658.75
+PRY-015,Migración de datos corporativos,Marzo 2026,Personal,57202.75
+PRY-022,Programa de fidelización,Agosto 2026,Software y licencias,76496.75
+PRY-004,Programa de capacitación comercial,Enero 2026,Comunicación y marketing,64540.75
+PRY-011,Expansión de almacenes,Junio 2026,Personal,75959.75
+PRY-018,Apertura de sede sur,Noviembre 2026,Software y licencias,95253.75
+PRY-025,Resiliencia y continuidad operativa,Abril 2026,Comunicación y marketing,114547.75
+PRY-007,Optimización de cadena de suministro,Septiembre 2026,Contingencias,102591.75
+PRY-014,Equipamiento de laboratorio,Febrero 2026,Servicios profesionales,113135.75
+PRY-021,Optimización energética,Julio 2026,Transporte,10929.75
+PRY-003,Implementación de CRM,Diciembre 2026,Mantenimiento,120473.75
+PRY-010,Plan de seguridad operativa,Mayo 2026,Equipamiento,9517.75
+PRY-017,Mantenimiento de flota,Octubre 2026,Materiales,28811.75
+PRY-024,Gestión documental,Marzo 2026,Capacitación,48105.75
+PRY-007,Optimización de cadena de suministro,Agosto 2026,Personal,28649.75
+PRY-014,Equipamiento de laboratorio,Enero 2026,Software y licencias,47943.75
+PRY-021,Optimización energética,Junio 2026,Comunicación y marketing,67237.75
+PRY-003,Implementación de CRM,Noviembre 2026,Contingencias,55281.75
+PRY-010,Plan de seguridad operativa,Abril 2026,Servicios profesionales,65825.75
+PRY-017,Mantenimiento de flota,Septiembre 2026,Transporte,85119.75
+PRY-024,Gestión documental,Febrero 2026,Mantenimiento,104413.75
+PRY-006,Campaña de posicionamiento regional,Julio 2026,Equipamiento,83707.75
+PRY-013,Programa de sostenibilidad,Diciembre 2026,Materiales,103001.75
+PRY-020,Actualización de marca,Mayo 2026,Capacitación,122295.75
+PRY-002,Modernización de planta norte,Octubre 2026,Personal,101589.75
+PRY-009,Desarrollo de portal web,Marzo 2026,Software y licencias,120883.75
+PRY-016,Rediseño de experiencia móvil,Agosto 2026,Comunicación y marketing,18677.75
+PRY-023,Renovación de puntos de venta,Enero 2026,Personal,30096.75
+PRY-005,Renovación de infraestructura TI,Julio 2026,Software y licencias,18140.75
+PRY-012,Automatización de reportes,Diciembre 2026,Comunicación y marketing,37434.75
+PRY-019,Proyecto de analítica avanzada,Mayo 2026,Contingencias,56728.75
+PRY-001,Ampliación de oficina central,Octubre 2026,Servicios profesionales,36022.75
+PRY-008,Centro de atención al cliente,Marzo 2026,Transporte,55316.75
+PRY-016,Rediseño de experiencia móvil,Agosto 2026,Mantenimiento,75860.75
+PRY-023,Renovación de puntos de venta,Enero 2026,Equipamiento,86404.75
+PRY-005,Renovación de infraestructura TI,Junio 2026,Materiales,74448.75
+PRY-012,Automatización de reportes,Noviembre 2026,Capacitación,93742.75
+PRY-019,Proyecto de analítica avanzada,Abril 2026,Personal,104286.75
+PRY-001,Ampliación de oficina central,Septiembre 2026,Software y licencias,92330.75
+PRY-008,Centro de atención al cliente,Febrero 2026,Comunicación y marketing,111624.75
+PRY-015,Migración de datos corporativos,Julio 2026,Contingencias,9418.75
+PRY-022,Programa de fidelización,Diciembre 2026,Servicios profesionales,19962.75
+PRY-004,Programa de capacitación comercial,Mayo 2026,Transporte,8006.75
+PRY-011,Expansión de almacenes,Octubre 2026,Mantenimiento,27300.75
+PRY-018,Apertura de sede sur,Marzo 2026,Equipamiento,37844.75
+PRY-025,Resiliencia y continuidad operativa,Agosto 2026,Materiales,57138.75
+PRY-007,Optimización de cadena de suministro,Enero 2026,Capacitación,45182.75
+PRY-014,Equipamiento de laboratorio,Junio 2026,Personal,55726.75
+PRY-021,Optimización energética,Noviembre 2026,Software y licencias,75020.75
+PRY-003,Implementación de CRM,Abril 2026,Comunicación y marketing,63064.75
+PRY-010,Plan de seguridad operativa,Septiembre 2026,Personal,74483.75
+PRY-017,Mantenimiento de flota,Febrero 2026,Software y licencias,93777.75
+PRY-025,Resiliencia y continuidad operativa,Julio 2026,Comunicación y marketing,114321.75
+PRY-007,Optimización de cadena de suministro,Diciembre 2026,Contingencias,102365.75
+PRY-014,Equipamiento de laboratorio,Mayo 2026,Servicios profesionales,112909.75
+PRY-021,Optimización energética,Octubre 2026,Transporte,10703.75
+PRY-003,Implementación de CRM,Marzo 2026,Mantenimiento,120247.75
+PRY-010,Plan de seguridad operativa,Agosto 2026,Equipamiento,9291.75
+PRY-017,Mantenimiento de flota,Enero 2026,Materiales,28585.75
+PRY-024,Gestión documental,Junio 2026,Capacitación,47879.75
+PRY-006,Campaña de posicionamiento regional,Noviembre 2026,Personal,27173.75
+PRY-013,Programa de sostenibilidad,Abril 2026,Software y licencias,46467.75
+PRY-020,Actualización de marca,Septiembre 2026,Comunicación y marketing,65761.75
+PRY-002,Modernización de planta norte,Febrero 2026,Contingencias,53805.75
+PRY-009,Desarrollo de portal web,Julio 2026,Servicios profesionales,64349.75
+PRY-016,Rediseño de experiencia móvil,Enero 2026,Transporte,83643.75
+PRY-023,Renovación de puntos de venta,Junio 2026,Mantenimiento,102937.75
+PRY-005,Renovación de infraestructura TI,Noviembre 2026,Equipamiento,82231.75
+PRY-012,Automatización de reportes,Abril 2026,Materiales,101525.75
+PRY-019,Proyecto de analítica avanzada,Septiembre 2026,Capacitación,120819.75
+PRY-001,Ampliación de oficina central,Febrero 2026,Personal,100113.75
+PRY-009,Desarrollo de portal web,Julio 2026,Software y licencias,120657.75
+PRY-016,Rediseño de experiencia móvil,Diciembre 2026,Comunicación y marketing,18451.75
+PRY-023,Renovación de puntos de venta,Mayo 2026,Personal,29870.75
+PRY-005,Renovación de infraestructura TI,Octubre 2026,Software y licencias,17914.75
+PRY-012,Automatización de reportes,Marzo 2026,Comunicación y marketing,37208.75
+PRY-019,Proyecto de analítica avanzada,Agosto 2026,Contingencias,56502.75
+PRY-001,Ampliación de oficina central,Enero 2026,Servicios profesionales,35796.75
+PRY-008,Centro de atención al cliente,Junio 2026,Transporte,55090.75
+PRY-015,Migración de datos corporativos,Noviembre 2026,Mantenimiento,74384.75
+PRY-022,Programa de fidelización,Abril 2026,Equipamiento,84928.75
+PRY-004,Programa de capacitación comercial,Septiembre 2026,Materiales,72972.75
+PRY-011,Expansión de almacenes,Febrero 2026,Capacitación,92266.75
+PRY-018,Apertura de sede sur,Julio 2026,Personal,102810.75
+PRY-025,Resiliencia y continuidad operativa,Diciembre 2026,Software y licencias,122104.75
+PRY-007,Optimización de cadena de suministro,Mayo 2026,Comunicación y marketing,110148.75
+PRY-014,Equipamiento de laboratorio,Octubre 2026,Contingencias,7942.75
+PRY-021,Optimización energética,Marzo 2026,Servicios profesionales,18486.75
+PRY-003,Implementación de CRM,Agosto 2026,Transporte,6530.75
+PRY-010,Plan de seguridad operativa,Enero 2026,Mantenimiento,25824.75
+PRY-018,Apertura de sede sur,Junio 2026,Equipamiento,37618.75
+PRY-025,Resiliencia y continuidad operativa,Noviembre 2026,Materiales,56912.75
+PRY-007,Optimización de cadena de suministro,Abril 2026,Capacitación,44956.75
+PRY-014,Equipamiento de laboratorio,Septiembre 2026,Personal,55500.75
+PRY-021,Optimización energética,Febrero 2026,Software y licencias,74794.75
+PRY-003,Implementación de CRM,Julio 2026,Comunicación y marketing,62838.75
+PRY-010,Plan de seguridad operativa,Diciembre 2026,Personal,74257.75
+PRY-017,Mantenimiento de flota,Mayo 2026,Software y licencias,93551.75
+PRY-024,Gestión documental,Octubre 2026,Comunicación y marketing,112845.75
+PRY-006,Campaña de posicionamiento regional,Marzo 2026,Contingencias,100889.75
+PRY-013,Programa de sostenibilidad,Agosto 2026,Servicios profesionales,111433.75
+PRY-020,Actualización de marca,Enero 2026,Transporte,9227.75
+PRY-002,Modernización de planta norte,Julio 2026,Mantenimiento,118771.75
+PRY-009,Desarrollo de portal web,Diciembre 2026,Equipamiento,7815.75
+PRY-016,Rediseño de experiencia móvil,Mayo 2026,Materiales,27109.75
+PRY-023,Renovación de puntos de venta,Octubre 2026,Capacitación,46403.75
+PRY-005,Renovación de infraestructura TI,Marzo 2026,Personal,25697.75
+PRY-012,Automatización de reportes,Agosto 2026,Software y licencias,44991.75
+PRY-019,Proyecto de analítica avanzada,Enero 2026,Comunicación y marketing,64285.75
+PRY-002,Modernización de planta norte,Junio 2026,Contingencias,53579.75
+PRY-009,Desarrollo de portal web,Noviembre 2026,Servicios profesionales,64123.75
+PRY-016,Rediseño de experiencia móvil,Abril 2026,Transporte,83417.75
+PRY-023,Renovación de puntos de venta,Septiembre 2026,Mantenimiento,102711.75
+PRY-005,Renovación de infraestructura TI,Febrero 2026,Equipamiento,82005.75
+PRY-012,Automatización de reportes,Julio 2026,Materiales,101299.75
+PRY-019,Proyecto de analítica avanzada,Diciembre 2026,Capacitación,120593.75
+PRY-001,Ampliación de oficina central,Mayo 2026,Personal,99887.75
+PRY-008,Centro de atención al cliente,Octubre 2026,Software y licencias,119181.75
+PRY-015,Migración de datos corporativos,Marzo 2026,Comunicación y marketing,16975.75
+PRY-022,Programa de fidelización,Agosto 2026,Personal,28394.75
+PRY-004,Programa de capacitación comercial,Enero 2026,Software y licencias,16438.75
+PRY-011,Expansión de almacenes,Junio 2026,Comunicación y marketing,35732.75
+PRY-018,Apertura de sede sur,Noviembre 2026,Contingencias,55026.75
+PRY-025,Resiliencia y continuidad operativa,Abril 2026,Servicios profesionales,65570.75
+PRY-007,Optimización de cadena de suministro,Septiembre 2026,Transporte,53614.75
+PRY-014,Equipamiento de laboratorio,Febrero 2026,Mantenimiento,72908.75
+PRY-021,Optimización energética,Julio 2026,Equipamiento,83452.75
+PRY-003,Implementación de CRM,Diciembre 2026,Materiales,71496.75
+PRY-011,Expansión de almacenes,Mayo 2026,Capacitación,92040.75
+PRY-018,Apertura de sede sur,Octubre 2026,Personal,102584.75
+PRY-025,Resiliencia y continuidad operativa,Marzo 2026,Software y licencias,121878.75
+PRY-007,Optimización de cadena de suministro,Agosto 2026,Comunicación y marketing,109922.75
+PRY-014,Equipamiento de laboratorio,Enero 2026,Contingencias,7716.75
+PRY-021,Optimización energética,Junio 2026,Servicios profesionales,18260.75
+PRY-003,Implementación de CRM,Noviembre 2026,Transporte,6304.75
+PRY-010,Plan de seguridad operativa,Abril 2026,Mantenimiento,25598.75
+PRY-017,Mantenimiento de flota,Septiembre 2026,Equipamiento,36142.75
+PRY-024,Gestión documental,Febrero 2026,Materiales,55436.75
+PRY-006,Campaña de posicionamiento regional,Julio 2026,Capacitación,43480.75
+PRY-013,Programa de sostenibilidad,Enero 2026,Personal,54024.75
+PRY-020,Actualización de marca,Junio 2026,Software y licencias,73318.75
+PRY-002,Modernización de planta norte,Noviembre 2026,Comunicación y marketing,61362.75
+PRY-009,Desarrollo de portal web,Abril 2026,Personal,72781.75
+PRY-016,Rediseño de experiencia móvil,Septiembre 2026,Software y licencias,92075.75
+PRY-023,Renovación de puntos de venta,Febrero 2026,Comunicación y marketing,111369.75
+PRY-005,Renovación de infraestructura TI,Julio 2026,Contingencias,99413.75
+PRY-012,Automatización de reportes,Diciembre 2026,Servicios profesionales,109957.75
+PRY-020,Actualización de marca,Mayo 2026,Transporte,9001.75
+PRY-002,Modernización de planta norte,Octubre 2026,Mantenimiento,118545.75
+PRY-009,Desarrollo de portal web,Marzo 2026,Equipamiento,7589.75
+PRY-016,Rediseño de experiencia móvil,Agosto 2026,Materiales,26883.75
+PRY-023,Renovación de puntos de venta,Enero 2026,Capacitación,46177.75
+PRY-005,Renovación de infraestructura TI,Junio 2026,Personal,25471.75
+PRY-012,Automatización de reportes,Noviembre 2026,Software y licencias,44765.75
+PRY-019,Proyecto de analítica avanzada,Abril 2026,Comunicación y marketing,64059.75
+PRY-001,Ampliación de oficina central,Septiembre 2026,Contingencias,52103.75
+PRY-008,Centro de atención al cliente,Febrero 2026,Servicios profesionales,62647.75
+PRY-015,Migración de datos corporativos,Julio 2026,Transporte,81941.75
+PRY-022,Programa de fidelización,Diciembre 2026,Mantenimiento,101235.75
+PRY-004,Programa de capacitación comercial,Mayo 2026,Equipamiento,80529.75
+PRY-011,Expansión de almacenes,Octubre 2026,Materiales,99823.75
+PRY-018,Apertura de sede sur,Marzo 2026,Capacitación,119117.75
+PRY-025,Resiliencia y continuidad operativa,Agosto 2026,Personal,8161.75
+PRY-007,Optimización de cadena de suministro,Enero 2026,Software y licencias,117705.75
+PRY-014,Equipamiento de laboratorio,Junio 2026,Comunicación y marketing,15499.75
+PRY-021,Optimización energética,Noviembre 2026,Personal,26918.75
+PRY-004,Programa de capacitación comercial,Abril 2026,Software y licencias,16212.75
+PRY-011,Expansión de almacenes,Septiembre 2026,Comunicación y marketing,35506.75
+PRY-018,Apertura de sede sur,Febrero 2026,Contingencias,54800.75
+PRY-025,Resiliencia y continuidad operativa,Julio 2026,Servicios profesionales,65344.75
+PRY-007,Optimización de cadena de suministro,Diciembre 2026,Transporte,53388.75
+PRY-014,Equipamiento de laboratorio,Mayo 2026,Mantenimiento,72682.75
+PRY-021,Optimización energética,Octubre 2026,Equipamiento,83226.75
+PRY-003,Implementación de CRM,Marzo 2026,Materiales,71270.75
+PRY-010,Plan de seguridad operativa,Agosto 2026,Capacitación,90564.75
+PRY-017,Mantenimiento de flota,Enero 2026,Personal,101108.75
+PRY-024,Gestión documental,Julio 2026,Software y licencias,120402.75
+PRY-006,Campaña de posicionamiento regional,Diciembre 2026,Comunicación y marketing,108446.75
+PRY-013,Programa de sostenibilidad,Mayo 2026,Contingencias,6240.75
+PRY-020,Actualización de marca,Octubre 2026,Servicios profesionales,16784.75
+PRY-002,Modernización de planta norte,Marzo 2026,Transporte,4828.75
+PRY-009,Desarrollo de portal web,Agosto 2026,Mantenimiento,24122.75
+PRY-016,Rediseño de experiencia móvil,Enero 2026,Equipamiento,34666.75
+PRY-023,Renovación de puntos de venta,Junio 2026,Materiales,53960.75
+PRY-005,Renovación de infraestructura TI,Noviembre 2026,Capacitación,42004.75
+PRY-013,Programa de sostenibilidad,Abril 2026,Personal,53798.75
+PRY-020,Actualización de marca,Septiembre 2026,Software y licencias,73092.75
+PRY-002,Modernización de planta norte,Febrero 2026,Comunicación y marketing,61136.75
+PRY-009,Desarrollo de portal web,Julio 2026,Personal,72555.75
+PRY-016,Rediseño de experiencia móvil,Diciembre 2026,Software y licencias,91849.75
+PRY-023,Renovación de puntos de venta,Mayo 2026,Comunicación y marketing,111143.75
+PRY-005,Renovación de infraestructura TI,Octubre 2026,Contingencias,99187.75
+PRY-012,Automatización de reportes,Marzo 2026,Servicios profesionales,109731.75
+PRY-019,Proyecto de analítica avanzada,Agosto 2026,Transporte,7525.75
+PRY-001,Ampliación de oficina central,Enero 2026,Mantenimiento,117069.75
+PRY-008,Centro de atención al cliente,Junio 2026,Equipamiento,6113.75
+PRY-015,Migración de datos corporativos,Noviembre 2026,Materiales,25407.75
+PRY-022,Programa de fidelización,Abril 2026,Capacitación,44701.75
+PRY-004,Programa de capacitación comercial,Septiembre 2026,Personal,23995.75
+PRY-011,Expansión de almacenes,Febrero 2026,Software y licencias,43289.75
+PRY-018,Apertura de sede sur,Julio 2026,Comunicación y marketing,62583.75
+PRY-025,Resiliencia y continuidad operativa,Diciembre 2026,Contingencias,81877.75
+PRY-007,Optimización de cadena de suministro,Mayo 2026,Servicios profesionales,61171.75
+PRY-014,Equipamiento de laboratorio,Octubre 2026,Transporte,80465.75
+PRY-022,Programa de fidelización,Marzo 2026,Mantenimiento,101009.75
+PRY-004,Programa de capacitación comercial,Agosto 2026,Equipamiento,80303.75
+PRY-011,Expansión de almacenes,Enero 2026,Materiales,99597.75
+PRY-018,Apertura de sede sur,Junio 2026,Capacitación,118891.75
+PRY-025,Resiliencia y continuidad operativa,Noviembre 2026,Personal,7935.75
+PRY-007,Optimización de cadena de suministro,Abril 2026,Software y licencias,117479.75
+PRY-014,Equipamiento de laboratorio,Septiembre 2026,Comunicación y marketing,15273.75
+PRY-021,Optimización energética,Febrero 2026,Personal,26692.75
+PRY-003,Implementación de CRM,Julio 2026,Software y licencias,14736.75
+PRY-010,Plan de seguridad operativa,Enero 2026,Comunicación y marketing,34030.75
+PRY-017,Mantenimiento de flota,Junio 2026,Contingencias,53324.75
+PRY-024,Gestión documental,Noviembre 2026,Servicios profesionales,63868.75
+PRY-006,Campaña de posicionamiento regional,Abril 2026,Transporte,51912.75
+PRY-013,Programa de sostenibilidad,Septiembre 2026,Mantenimiento,71206.75
+PRY-020,Actualización de marca,Febrero 2026,Equipamiento,81750.75
+PRY-002,Modernización de planta norte,Julio 2026,Materiales,69794.75
+PRY-009,Desarrollo de portal web,Diciembre 2026,Capacitación,89088.75
+PRY-016,Rediseño de experiencia móvil,Mayo 2026,Personal,99632.75
+PRY-023,Renovación de puntos de venta,Octubre 2026,Software y licencias,118926.75
+PRY-006,Campaña de posicionamiento regional,Marzo 2026,Comunicación y marketing,108220.75
+PRY-013,Programa de sostenibilidad,Agosto 2026,Contingencias,6014.75
+PRY-020,Actualización de marca,Enero 2026,Servicios profesionales,16558.75
+PRY-002,Modernización de planta norte,Junio 2026,Transporte,4602.75
+PRY-009,Desarrollo de portal web,Noviembre 2026,Mantenimiento,23896.75
+PRY-016,Rediseño de experiencia móvil,Abril 2026,Equipamiento,34440.75
+PRY-023,Renovación de puntos de venta,Septiembre 2026,Materiales,53734.75
+PRY-005,Renovación de infraestructura TI,Febrero 2026,Capacitación,41778.75
+PRY-012,Automatización de reportes,Julio 2026,Personal,52322.75
+PRY-019,Proyecto de analítica avanzada,Diciembre 2026,Software y licencias,71616.75
+PRY-001,Ampliación de oficina central,Mayo 2026,Comunicación y marketing,59660.75
+PRY-008,Centro de atención al cliente,Octubre 2026,Personal,71079.75
+PRY-015,Migración de datos corporativos,Marzo 2026,Software y licencias,90373.75
+PRY-022,Programa de fidelización,Agosto 2026,Comunicación y marketing,109667.75
+PRY-004,Programa de capacitación comercial,Enero 2026,Contingencias,97711.75
+PRY-011,Expansión de almacenes,Junio 2026,Servicios profesionales,108255.75
+PRY-018,Apertura de sede sur,Noviembre 2026,Transporte,6049.75
+PRY-025,Resiliencia y continuidad operativa,Abril 2026,Mantenimiento,25343.75
+PRY-007,Optimización de cadena de suministro,Septiembre 2026,Equipamiento,4637.75
+PRY-015,Migración de datos corporativos,Febrero 2026,Materiales,25181.75
+PRY-022,Programa de fidelización,Julio 2026,Capacitación,44475.75
+PRY-004,Programa de capacitación comercial,Diciembre 2026,Personal,23769.75
+PRY-011,Expansión de almacenes,Mayo 2026,Software y licencias,43063.75
+PRY-018,Apertura de sede sur,Octubre 2026,Comunicación y marketing,62357.75
+PRY-025,Resiliencia y continuidad operativa,Marzo 2026,Contingencias,81651.75
+PRY-007,Optimización de cadena de suministro,Agosto 2026,Servicios profesionales,60945.75
+PRY-014,Equipamiento de laboratorio,Enero 2026,Transporte,80239.75
+PRY-021,Optimización energética,Julio 2026,Mantenimiento,99533.75
+PRY-003,Implementación de CRM,Diciembre 2026,Equipamiento,78827.75
+PRY-010,Plan de seguridad operativa,Mayo 2026,Materiales,98121.75
+PRY-017,Mantenimiento de flota,Octubre 2026,Capacitación,117415.75
+PRY-024,Gestión documental,Marzo 2026,Personal,6459.75
+PRY-006,Campaña de posicionamiento regional,Agosto 2026,Software y licencias,116003.75
+PRY-013,Programa de sostenibilidad,Enero 2026,Comunicación y marketing,13797.75
+PRY-020,Actualización de marca,Junio 2026,Personal,25216.75
+PRY-002,Modernización de planta norte,Noviembre 2026,Software y licencias,13260.75
+PRY-009,Desarrollo de portal web,Abril 2026,Comunicación y marketing,32554.75
+PRY-016,Rediseño de experiencia móvil,Septiembre 2026,Contingencias,51848.75
+PRY-024,Gestión documental,Febrero 2026,Servicios profesionales,63642.75
+PRY-006,Campaña de posicionamiento regional,Julio 2026,Transporte,51686.75
+PRY-013,Programa de sostenibilidad,Diciembre 2026,Mantenimiento,70980.75
+PRY-020,Actualización de marca,Mayo 2026,Equipamiento,81524.75
+PRY-002,Modernización de planta norte,Octubre 2026,Materiales,69568.75
+PRY-009,Desarrollo de portal web,Marzo 2026,Capacitación,88862.75
+PRY-016,Rediseño de experiencia móvil,Agosto 2026,Personal,99406.75
+PRY-023,Renovación de puntos de venta,Enero 2026,Software y licencias,118700.75
+PRY-005,Renovación de infraestructura TI,Junio 2026,Comunicación y marketing,106744.75
+PRY-012,Automatización de reportes,Noviembre 2026,Contingencias,4538.75
+PRY-019,Proyecto de analítica avanzada,Abril 2026,Servicios profesionales,15082.75
+PRY-001,Ampliación de oficina central,Septiembre 2026,Transporte,124626.75
+PRY-008,Centro de atención al cliente,Febrero 2026,Mantenimiento,22420.75
+PRY-015,Migración de datos corporativos,Julio 2026,Equipamiento,32964.75
+PRY-022,Programa de fidelización,Diciembre 2026,Materiales,52258.75
+PRY-004,Programa de capacitación comercial,Mayo 2026,Capacitación,40302.75
+PRY-011,Expansión de almacenes,Octubre 2026,Personal,50846.75
+PRY-018,Apertura de sede sur,Marzo 2026,Software y licencias,70140.75
+PRY-025,Resiliencia y continuidad operativa,Agosto 2026,Comunicación y marketing,89434.75
+PRY-008,Centro de atención al cliente,Enero 2026,Personal,70853.75
+PRY-015,Migración de datos corporativos,Junio 2026,Software y licencias,90147.75
+PRY-022,Programa de fidelización,Noviembre 2026,Comunicación y marketing,109441.75
+PRY-004,Programa de capacitación comercial,Abril 2026,Contingencias,97485.75
+PRY-011,Expansión de almacenes,Septiembre 2026,Servicios profesionales,108029.75
+PRY-018,Apertura de sede sur,Febrero 2026,Transporte,5823.75
+PRY-025,Resiliencia y continuidad operativa,Julio 2026,Mantenimiento,25117.75
+PRY-007,Optimización de cadena de suministro,Enero 2026,Equipamiento,4411.75
+PRY-014,Equipamiento de laboratorio,Junio 2026,Materiales,23705.75
+PRY-021,Optimización energética,Noviembre 2026,Capacitación,42999.75
+PRY-003,Implementación de CRM,Abril 2026,Personal,22293.75
+PRY-010,Plan de seguridad operativa,Septiembre 2026,Software y licencias,41587.75
+PRY-017,Mantenimiento de flota,Febrero 2026,Comunicación y marketing,60881.75
+PRY-024,Gestión documental,Julio 2026,Contingencias,80175.75
+PRY-006,Campaña de posicionamiento regional,Diciembre 2026,Servicios profesionales,59469.75
+PRY-013,Programa de sostenibilidad,Mayo 2026,Transporte,78763.75
+PRY-020,Actualización de marca,Octubre 2026,Mantenimiento,98057.75
+PRY-002,Modernización de planta norte,Marzo 2026,Equipamiento,77351.75
+PRY-009,Desarrollo de portal web,Agosto 2026,Materiales,96645.75
+PRY-017,Mantenimiento de flota,Enero 2026,Capacitación,117189.75
+PRY-024,Gestión documental,Junio 2026,Personal,6233.75
+PRY-006,Campaña de posicionamiento regional,Noviembre 2026,Software y licencias,115777.75
+PRY-013,Programa de sostenibilidad,Abril 2026,Comunicación y marketing,13571.75
+PRY-020,Actualización de marca,Septiembre 2026,Personal,24990.75
+PRY-002,Modernización de planta norte,Febrero 2026,Software y licencias,13034.75
+PRY-009,Desarrollo de portal web,Julio 2026,Comunicación y marketing,32328.75
+PRY-016,Rediseño de experiencia móvil,Diciembre 2026,Contingencias,51622.75
+PRY-023,Renovación de puntos de venta,Mayo 2026,Servicios profesionales,62166.75
+PRY-005,Renovación de infraestructura TI,Octubre 2026,Transporte,50210.75
+PRY-012,Automatización de reportes,Marzo 2026,Mantenimiento,69504.75
+PRY-019,Proyecto de analítica avanzada,Agosto 2026,Equipamiento,80048.75
+PRY-001,Ampliación de oficina central,Enero 2026,Materiales,68092.75
+PRY-008,Centro de atención al cliente,Junio 2026,Capacitación,87386.75
+PRY-015,Migración de datos corporativos,Noviembre 2026,Personal,97930.75
+PRY-022,Programa de fidelización,Abril 2026,Software y licencias,117224.75
+PRY-004,Programa de capacitación comercial,Septiembre 2026,Comunicación y marketing,105268.75
+PRY-011,Expansión de almacenes,Febrero 2026,Contingencias,124562.75
+PRY-018,Apertura de sede sur,Julio 2026,Servicios profesionales,13606.75
+PRY-001,Ampliación de oficina central,Diciembre 2026,Transporte,124400.75
+PRY-008,Centro de atención al cliente,Mayo 2026,Mantenimiento,22194.75
+PRY-015,Migración de datos corporativos,Octubre 2026,Equipamiento,32738.75
+PRY-022,Programa de fidelización,Marzo 2026,Materiales,52032.75
+PRY-004,Programa de capacitación comercial,Agosto 2026,Capacitación,40076.75
+PRY-011,Expansión de almacenes,Enero 2026,Personal,50620.75
+PRY-018,Apertura de sede sur,Julio 2026,Software y licencias,69914.75
+PRY-025,Resiliencia y continuidad operativa,Diciembre 2026,Comunicación y marketing,89208.75
+PRY-007,Optimización de cadena de suministro,Mayo 2026,Personal,69377.75
+PRY-014,Equipamiento de laboratorio,Octubre 2026,Software y licencias,88671.75
+PRY-021,Optimización energética,Marzo 2026,Comunicación y marketing,107965.75
+PRY-003,Implementación de CRM,Agosto 2026,Contingencias,96009.75
+PRY-010,Plan de seguridad operativa,Enero 2026,Servicios profesionales,106553.75
+PRY-017,Mantenimiento de flota,Junio 2026,Transporte,4347.75
+PRY-024,Gestión documental,Noviembre 2026,Mantenimiento,23641.75
+PRY-006,Campaña de posicionamiento regional,Abril 2026,Equipamiento,124435.75
+PRY-013,Programa de sostenibilidad,Septiembre 2026,Materiales,22229.75
+PRY-020,Actualización de marca,Febrero 2026,Capacitación,41523.75
+PRY-002,Modernización de planta norte,Julio 2026,Personal,20817.75
+PRY-010,Plan de seguridad operativa,Diciembre 2026,Software y licencias,41361.75
+PRY-017,Mantenimiento de flota,Mayo 2026,Comunicación y marketing,60655.75
+PRY-024,Gestión documental,Octubre 2026,Contingencias,79949.75
+PRY-006,Campaña de posicionamiento regional,Marzo 2026,Servicios profesionales,59243.75
+PRY-013,Programa de sostenibilidad,Agosto 2026,Transporte,78537.75
+PRY-020,Actualización de marca,Enero 2026,Mantenimiento,97831.75
+PRY-002,Modernización de planta norte,Junio 2026,Equipamiento,77125.75
+PRY-009,Desarrollo de portal web,Noviembre 2026,Materiales,96419.75
+PRY-016,Rediseño de experiencia móvil,Abril 2026,Capacitación,115713.75
+PRY-023,Renovación de puntos de venta,Septiembre 2026,Personal,4757.75
+PRY-005,Renovación de infraestructura TI,Febrero 2026,Software y licencias,114301.75
+PRY-012,Automatización de reportes,Julio 2026,Comunicación y marketing,12095.75
+PRY-019,Proyecto de analítica avanzada,Diciembre 2026,Personal,23514.75
+PRY-001,Ampliación de oficina central,Mayo 2026,Software y licencias,11558.75
+PRY-008,Centro de atención al cliente,Octubre 2026,Comunicación y marketing,30852.75
+PRY-015,Migración de datos corporativos,Marzo 2026,Contingencias,50146.75
+PRY-022,Programa de fidelización,Agosto 2026,Servicios profesionales,60690.75
+PRY-004,Programa de capacitación comercial,Enero 2026,Transporte,48734.75
+PRY-011,Expansión de almacenes,Junio 2026,Mantenimiento,68028.75
+PRY-019,Proyecto de analítica avanzada,Noviembre 2026,Equipamiento,79822.75
+PRY-001,Ampliación de oficina central,Abril 2026,Materiales,67866.75
+PRY-008,Centro de atención al cliente,Septiembre 2026,Capacitación,87160.75
+PRY-015,Migración de datos corporativos,Febrero 2026,Personal,97704.75
+PRY-022,Programa de fidelización,Julio 2026,Software y licencias,116998.75
+PRY-004,Programa de capacitación comercial,Enero 2026,Comunicación y marketing,105042.75
+PRY-011,Expansión de almacenes,Junio 2026,Contingencias,124336.75
+PRY-018,Apertura de sede sur,Noviembre 2026,Servicios profesionales,13380.75
+PRY-025,Resiliencia y continuidad operativa,Abril 2026,Transporte,32674.75
+PRY-007,Optimización de cadena de suministro,Septiembre 2026,Mantenimiento,20718.75
+PRY-014,Equipamiento de laboratorio,Febrero 2026,Equipamiento,31262.75
+PRY-021,Optimización energética,Julio 2026,Materiales,50556.75
+PRY-003,Implementación de CRM,Diciembre 2026,Capacitación,38600.75
+PRY-010,Plan de seguridad operativa,Mayo 2026,Personal,49144.75
+PRY-017,Mantenimiento de flota,Octubre 2026,Software y licencias,68438.75
+PRY-024,Gestión documental,Marzo 2026,Comunicación y marketing,87732.75
+PRY-006,Campaña de posicionamiento regional,Agosto 2026,Personal,67901.75
+PRY-013,Programa de sostenibilidad,Enero 2026,Software y licencias,87195.75
+PRY-020,Actualización de marca,Junio 2026,Comunicación y marketing,106489.75
+PRY-003,Implementación de CRM,Noviembre 2026,Contingencias,95783.75
+PRY-010,Plan de seguridad operativa,Abril 2026,Servicios profesionales,106327.75
+PRY-017,Mantenimiento de flota,Septiembre 2026,Transporte,4121.75
+PRY-024,Gestión documental,Febrero 2026,Mantenimiento,23415.75
+PRY-006,Campaña de posicionamiento regional,Julio 2026,Equipamiento,124209.75
+PRY-013,Programa de sostenibilidad,Diciembre 2026,Materiales,22003.75
+PRY-020,Actualización de marca,Mayo 2026,Capacitación,41297.75
+PRY-002,Modernización de planta norte,Octubre 2026,Personal,20591.75
+PRY-009,Desarrollo de portal web,Marzo 2026,Software y licencias,39885.75
+PRY-016,Rediseño de experiencia móvil,Agosto 2026,Comunicación y marketing,59179.75
+PRY-023,Renovación de puntos de venta,Enero 2026,Contingencias,78473.75
+PRY-005,Renovación de infraestructura TI,Junio 2026,Servicios profesionales,57767.75
+PRY-012,Automatización de reportes,Noviembre 2026,Transporte,77061.75
+PRY-019,Proyecto de analítica avanzada,Abril 2026,Mantenimiento,96355.75
+PRY-001,Ampliación de oficina central,Septiembre 2026,Equipamiento,75649.75
+PRY-008,Centro de atención al cliente,Febrero 2026,Materiales,94943.75
+PRY-015,Migración de datos corporativos,Julio 2026,Capacitación,114237.75
+PRY-022,Programa de fidelización,Diciembre 2026,Personal,124781.75
+PRY-004,Programa de capacitación comercial,Mayo 2026,Software y licencias,112825.75
+PRY-012,Automatización de reportes,Octubre 2026,Comunicación y marketing,11869.75
+PRY-019,Proyecto de analítica avanzada,Marzo 2026,Personal,23288.75
+PRY-001,Ampliación de oficina central,Agosto 2026,Software y licencias,11332.75
+PRY-008,Centro de atención al cliente,Enero 2026,Comunicación y marketing,30626.75
+PRY-015,Migración de datos corporativos,Julio 2026,Contingencias,49920.75
+PRY-022,Programa de fidelización,Diciembre 2026,Servicios profesionales,60464.75
+PRY-004,Programa de capacitación comercial,Mayo 2026,Transporte,48508.75
+PRY-011,Expansión de almacenes,Octubre 2026,Mantenimiento,67802.75
+PRY-018,Apertura de sede sur,Marzo 2026,Equipamiento,78346.75
+PRY-025,Resiliencia y continuidad operativa,Agosto 2026,Materiales,97640.75
+PRY-007,Optimización de cadena de suministro,Enero 2026,Capacitación,85684.75
+PRY-014,Equipamiento de laboratorio,Junio 2026,Personal,96228.75
+PRY-021,Optimización energética,Noviembre 2026,Software y licencias,115522.75
+PRY-003,Implementación de CRM,Abril 2026,Comunicación y marketing,103566.75
+PRY-010,Plan de seguridad operativa,Septiembre 2026,Contingencias,122860.75
+PRY-017,Mantenimiento de flota,Febrero 2026,Servicios profesionales,11904.75
+PRY-024,Gestión documental,Julio 2026,Transporte,31198.75
+PRY-006,Campaña de posicionamiento regional,Diciembre 2026,Mantenimiento,19242.75
+PRY-013,Programa de sostenibilidad,Mayo 2026,Equipamiento,29786.75
+PRY-021,Optimización energética,Octubre 2026,Materiales,50330.75
+PRY-003,Implementación de CRM,Marzo 2026,Capacitación,38374.75
+PRY-010,Plan de seguridad operativa,Agosto 2026,Personal,48918.75
+PRY-017,Mantenimiento de flota,Enero 2026,Software y licencias,68212.75
+PRY-024,Gestión documental,Junio 2026,Comunicación y marketing,87506.75
+PRY-006,Campaña de posicionamiento regional,Noviembre 2026,Personal,67675.75
+PRY-013,Programa de sostenibilidad,Abril 2026,Software y licencias,86969.75
+PRY-020,Actualización de marca,Septiembre 2026,Comunicación y marketing,106263.75
+PRY-002,Modernización de planta norte,Febrero 2026,Contingencias,94307.75
+PRY-009,Desarrollo de portal web,Julio 2026,Servicios profesionales,104851.75
+PRY-016,Rediseño de experiencia móvil,Diciembre 2026,Transporte,124145.75
+PRY-023,Renovación de puntos de venta,Mayo 2026,Mantenimiento,21939.75
+PRY-005,Renovación de infraestructura TI,Octubre 2026,Equipamiento,122733.75
+PRY-012,Automatización de reportes,Marzo 2026,Materiales,20527.75
+PRY-019,Proyecto de analítica avanzada,Agosto 2026,Capacitación,39821.75
+PRY-001,Ampliación de oficina central,Enero 2026,Personal,19115.75
+PRY-008,Centro de atención al cliente,Junio 2026,Software y licencias,38409.75
+PRY-015,Migración de datos corporativos,Noviembre 2026,Comunicación y marketing,57703.75
+PRY-022,Programa de fidelización,Abril 2026,Contingencias,76997.75
+PRY-005,Renovación de infraestructura TI,Septiembre 2026,Servicios profesionales,57541.75
+PRY-012,Automatización de reportes,Febrero 2026,Transporte,76835.75
+PRY-019,Proyecto de analítica avanzada,Julio 2026,Mantenimiento,96129.75
+PRY-001,Ampliación de oficina central,Enero 2026,Equipamiento,75423.75
+PRY-008,Centro de atención al cliente,Junio 2026,Materiales,94717.75
+PRY-015,Migración de datos corporativos,Noviembre 2026,Capacitación,114011.75
+PRY-022,Programa de fidelización,Abril 2026,Personal,124555.75
+PRY-004,Programa de capacitación comercial,Septiembre 2026,Software y licencias,112599.75
+PRY-011,Expansión de almacenes,Febrero 2026,Comunicación y marketing,10393.75
+PRY-018,Apertura de sede sur,Julio 2026,Personal,21812.75
+PRY-025,Resiliencia y continuidad operativa,Diciembre 2026,Software y licencias,41106.75
+PRY-007,Optimización de cadena de suministro,Mayo 2026,Comunicación y marketing,29150.75
+PRY-014,Equipamiento de laboratorio,Octubre 2026,Contingencias,48444.75
+PRY-021,Optimización energética,Marzo 2026,Servicios profesionales,58988.75
+PRY-003,Implementación de CRM,Agosto 2026,Transporte,47032.75
+PRY-010,Plan de seguridad operativa,Enero 2026,Mantenimiento,66326.75
+PRY-017,Mantenimiento de flota,Junio 2026,Equipamiento,76870.75
+PRY-024,Gestión documental,Noviembre 2026,Materiales,96164.75
+PRY-006,Campaña de posicionamiento regional,Abril 2026,Capacitación,84208.75
+PRY-014,Equipamiento de laboratorio,Septiembre 2026,Personal,96002.75
+PRY-021,Optimización energética,Febrero 2026,Software y licencias,115296.75
+PRY-003,Implementación de CRM,Julio 2026,Comunicación y marketing,103340.75
+PRY-010,Plan de seguridad operativa,Diciembre 2026,Contingencias,122634.75
+PRY-017,Mantenimiento de flota,Mayo 2026,Servicios profesionales,11678.75
+PRY-024,Gestión documental,Octubre 2026,Transporte,30972.75
+PRY-006,Campaña de posicionamiento regional,Marzo 2026,Mantenimiento,19016.75
+PRY-013,Programa de sostenibilidad,Agosto 2026,Equipamiento,29560.75
+PRY-020,Actualización de marca,Enero 2026,Materiales,48854.75
+PRY-002,Modernización de planta norte,Junio 2026,Capacitación,36898.75
+PRY-009,Desarrollo de portal web,Noviembre 2026,Personal,47442.75
+PRY-016,Rediseño de experiencia móvil,Abril 2026,Software y licencias,66736.75
+PRY-023,Renovación de puntos de venta,Septiembre 2026,Comunicación y marketing,86030.75
+PRY-005,Renovación de infraestructura TI,Febrero 2026,Personal,66199.75
+PRY-012,Automatización de reportes,Julio 2026,Software y licencias,85493.75
+PRY-019,Proyecto de analítica avanzada,Diciembre 2026,Comunicación y marketing,104787.75
+PRY-001,Ampliación de oficina central,Mayo 2026,Contingencias,92831.75
+PRY-008,Centro de atención al cliente,Octubre 2026,Servicios profesionales,103375.75
+PRY-015,Migración de datos corporativos,Marzo 2026,Transporte,122669.75
+PRY-023,Renovación de puntos de venta,Agosto 2026,Mantenimiento,21713.75
+PRY-005,Renovación de infraestructura TI,Enero 2026,Equipamiento,122507.75
+PRY-012,Automatización de reportes,Julio 2026,Materiales,20301.75
+PRY-019,Proyecto de analítica avanzada,Diciembre 2026,Capacitación,39595.75
+PRY-001,Ampliación de oficina central,Mayo 2026,Personal,18889.75
+PRY-008,Centro de atención al cliente,Octubre 2026,Software y licencias,38183.75
+PRY-015,Migración de datos corporativos,Marzo 2026,Comunicación y marketing,57477.75
+PRY-022,Programa de fidelización,Agosto 2026,Contingencias,76771.75
+PRY-004,Programa de capacitación comercial,Enero 2026,Servicios profesionales,56065.75
+PRY-011,Expansión de almacenes,Junio 2026,Transporte,75359.75
+PRY-018,Apertura de sede sur,Noviembre 2026,Mantenimiento,94653.75
+PRY-025,Resiliencia y continuidad operativa,Abril 2026,Equipamiento,105197.75
+PRY-007,Optimización de cadena de suministro,Septiembre 2026,Materiales,93241.75
+PRY-014,Equipamiento de laboratorio,Febrero 2026,Capacitación,112535.75
+PRY-021,Optimización energética,Julio 2026,Personal,123079.75
+PRY-003,Implementación de CRM,Diciembre 2026,Software y licencias,111123.75
+PRY-010,Plan de seguridad operativa,Mayo 2026,Comunicación y marketing,8917.75
+PRY-017,Mantenimiento de flota,Octubre 2026,Personal,20336.75
+PRY-024,Gestión documental,Marzo 2026,Software y licencias,39630.75
+PRY-007,Optimización de cadena de suministro,Agosto 2026,Comunicación y marketing,28924.75
+PRY-014,Equipamiento de laboratorio,Enero 2026,Contingencias,48218.75
+PRY-021,Optimización energética,Junio 2026,Servicios profesionales,58762.75
+PRY-003,Implementación de CRM,Noviembre 2026,Transporte,46806.75
+PRY-010,Plan de seguridad operativa,Abril 2026,Mantenimiento,66100.75
+PRY-017,Mantenimiento de flota,Septiembre 2026,Equipamiento,76644.75
+PRY-024,Gestión documental,Febrero 2026,Materiales,95938.75
+PRY-006,Campaña de posicionamiento regional,Julio 2026,Capacitación,83982.75
+PRY-013,Programa de sostenibilidad,Diciembre 2026,Personal,94526.75
+PRY-020,Actualización de marca,Mayo 2026,Software y licencias,113820.75
+PRY-002,Modernización de planta norte,Octubre 2026,Comunicación y marketing,101864.75
+PRY-009,Desarrollo de portal web,Marzo 2026,Contingencias,121158.75
+PRY-016,Rediseño de experiencia móvil,Agosto 2026,Servicios profesionales,10202.75
+PRY-023,Renovación de puntos de venta,Enero 2026,Transporte,29496.75
+PRY-005,Renovación de infraestructura TI,Junio 2026,Mantenimiento,17540.75
+PRY-012,Automatización de reportes,Noviembre 2026,Equipamiento,28084.75
+PRY-019,Proyecto de analítica avanzada,Abril 2026,Materiales,47378.75
+PRY-001,Ampliación de oficina central,Septiembre 2026,Capacitación,35422.75
+PRY-008,Centro de atención al cliente,Febrero 2026,Personal,45966.75
+PRY-016,Rediseño de experiencia móvil,Julio 2026,Software y licencias,66510.75
+PRY-023,Renovación de puntos de venta,Enero 2026,Comunicación y marketing,85804.75
+PRY-005,Renovación de infraestructura TI,Junio 2026,Personal,65973.75
+PRY-012,Automatización de reportes,Noviembre 2026,Software y licencias,85267.75
+PRY-019,Proyecto de analítica avanzada,Abril 2026,Comunicación y marketing,104561.75
+PRY-001,Ampliación de oficina central,Septiembre 2026,Contingencias,92605.75
+PRY-008,Centro de atención al cliente,Febrero 2026,Servicios profesionales,103149.75
+PRY-015,Migración de datos corporativos,Julio 2026,Transporte,122443.75
+PRY-022,Programa de fidelización,Diciembre 2026,Mantenimiento,20237.75
+PRY-004,Programa de capacitación comercial,Mayo 2026,Equipamiento,121031.75
+PRY-011,Expansión de almacenes,Octubre 2026,Materiales,18825.75
+PRY-018,Apertura de sede sur,Marzo 2026,Capacitación,38119.75
+PRY-025,Resiliencia y continuidad operativa,Agosto 2026,Personal,48663.75
+PRY-007,Optimización de cadena de suministro,Enero 2026,Software y licencias,36707.75
+PRY-014,Equipamiento de laboratorio,Junio 2026,Comunicación y marketing,56001.75
+PRY-021,Optimización energética,Noviembre 2026,Contingencias,75295.75
+PRY-003,Implementación de CRM,Abril 2026,Servicios profesionales,54589.75
+PRY-010,Plan de seguridad operativa,Septiembre 2026,Transporte,73883.75
+PRY-017,Mantenimiento de flota,Febrero 2026,Mantenimiento,93177.75
+PRY-025,Resiliencia y continuidad operativa,Julio 2026,Equipamiento,104971.75
+PRY-007,Optimización de cadena de suministro,Diciembre 2026,Materiales,93015.75
+PRY-014,Equipamiento de laboratorio,Mayo 2026,Capacitación,112309.75
+PRY-021,Optimización energética,Octubre 2026,Personal,122853.75
+PRY-003,Implementación de CRM,Marzo 2026,Software y licencias,110897.75
+PRY-010,Plan de seguridad operativa,Agosto 2026,Comunicación y marketing,8691.75
+PRY-017,Mantenimiento de flota,Enero 2026,Personal,20110.75
+PRY-024,Gestión documental,Junio 2026,Software y licencias,39404.75
+PRY-006,Campaña de posicionamiento regional,Noviembre 2026,Comunicación y marketing,27448.75
+PRY-013,Programa de sostenibilidad,Abril 2026,Contingencias,46742.75
+PRY-020,Actualización de marca,Septiembre 2026,Servicios profesionales,57286.75
+PRY-002,Modernización de planta norte,Febrero 2026,Transporte,45330.75
+PRY-009,Desarrollo de portal web,Julio 2026,Mantenimiento,64624.75
+PRY-016,Rediseño de experiencia móvil,Diciembre 2026,Equipamiento,75168.75
+PRY-023,Renovación de puntos de venta,Mayo 2026,Materiales,94462.75
+PRY-005,Renovación de infraestructura TI,Octubre 2026,Capacitación,82506.75
+PRY-012,Automatización de reportes,Marzo 2026,Personal,93050.75
+PRY-019,Proyecto de analítica avanzada,Agosto 2026,Software y licencias,112344.75
+PRY-001,Ampliación de oficina central,Enero 2026,Comunicación y marketing,100388.75
+PRY-009,Desarrollo de portal web,Julio 2026,Contingencias,120932.75
+PRY-016,Rediseño de experiencia móvil,Diciembre 2026,Servicios profesionales,9976.75
+PRY-023,Renovación de puntos de venta,Mayo 2026,Transporte,29270.75
+PRY-005,Renovación de infraestructura TI,Octubre 2026,Mantenimiento,17314.75
+PRY-012,Automatización de reportes,Marzo 2026,Equipamiento,27858.75
+PRY-019,Proyecto de analítica avanzada,Agosto 2026,Materiales,47152.75
+PRY-001,Ampliación de oficina central,Enero 2026,Capacitación,35196.75
+PRY-008,Centro de atención al cliente,Junio 2026,Personal,45740.75
+PRY-015,Migración de datos corporativos,Noviembre 2026,Software y licencias,65034.75
+PRY-022,Programa de fidelización,Abril 2026,Comunicación y marketing,84328.75
+PRY-004,Programa de capacitación comercial,Septiembre 2026,Personal,64497.75
+PRY-011,Expansión de almacenes,Febrero 2026,Software y licencias,83791.75
+PRY-018,Apertura de sede sur,Julio 2026,Comunicación y marketing,103085.75
+PRY-025,Resiliencia y continuidad operativa,Diciembre 2026,Contingencias,122379.75
+PRY-007,Optimización de cadena de suministro,Mayo 2026,Servicios profesionales,101673.75
+PRY-014,Equipamiento de laboratorio,Octubre 2026,Transporte,120967.75
+PRY-021,Optimización energética,Marzo 2026,Mantenimiento,18761.75
+PRY-003,Implementación de CRM,Agosto 2026,Equipamiento,119555.75
+PRY-010,Plan de seguridad operativa,Enero 2026,Materiales,17349.75
+PRY-018,Apertura de sede sur,Junio 2026,Capacitación,37893.75
+PRY-025,Resiliencia y continuidad operativa,Noviembre 2026,Personal,48437.75
+PRY-007,Optimización de cadena de suministro,Abril 2026,Software y licencias,36481.75
+PRY-014,Equipamiento de laboratorio,Septiembre 2026,Comunicación y marketing,55775.75
+PRY-021,Optimización energética,Febrero 2026,Contingencias,75069.75
+PRY-003,Implementación de CRM,Julio 2026,Servicios profesionales,54363.75
+PRY-010,Plan de seguridad operativa,Diciembre 2026,Transporte,73657.75
+PRY-017,Mantenimiento de flota,Mayo 2026,Mantenimiento,92951.75
+PRY-024,Gestión documental,Octubre 2026,Equipamiento,103495.75
+PRY-006,Campaña de posicionamiento regional,Marzo 2026,Materiales,91539.75
+PRY-013,Programa de sostenibilidad,Agosto 2026,Capacitación,110833.75
+PRY-020,Actualización de marca,Enero 2026,Personal,121377.75
+PRY-002,Modernización de planta norte,Junio 2026,Software y licencias,109421.75
+PRY-009,Desarrollo de portal web,Noviembre 2026,Comunicación y marketing,7215.75
+PRY-016,Rediseño de experiencia móvil,Abril 2026,Personal,18634.75
+PRY-023,Renovación de puntos de venta,Septiembre 2026,Software y licencias,37928.75
+PRY-005,Renovación de infraestructura TI,Febrero 2026,Comunicación y marketing,25972.75
+PRY-012,Automatización de reportes,Julio 2026,Contingencias,45266.75
+PRY-019,Proyecto de analítica avanzada,Enero 2026,Servicios profesionales,55810.75
+PRY-002,Modernización de planta norte,Junio 2026,Transporte,45104.75
+PRY-009,Desarrollo de portal web,Noviembre 2026,Mantenimiento,64398.75
+PRY-016,Rediseño de experiencia móvil,Abril 2026,Equipamiento,74942.75
+PRY-023,Renovación de puntos de venta,Septiembre 2026,Materiales,94236.75
+PRY-005,Renovación de infraestructura TI,Febrero 2026,Capacitación,82280.75
+PRY-012,Automatización de reportes,Julio 2026,Personal,92824.75
+PRY-019,Proyecto de analítica avanzada,Diciembre 2026,Software y licencias,112118.75
+PRY-001,Ampliación de oficina central,Mayo 2026,Comunicación y marketing,100162.75
+PRY-008,Centro de atención al cliente,Octubre 2026,Contingencias,119456.75
+PRY-015,Migración de datos corporativos,Marzo 2026,Servicios profesionales,8500.75
+PRY-022,Programa de fidelización,Agosto 2026,Transporte,27794.75
+PRY-004,Programa de capacitación comercial,Enero 2026,Mantenimiento,15838.75
+PRY-011,Expansión de almacenes,Junio 2026,Equipamiento,26382.75
+PRY-018,Apertura de sede sur,Noviembre 2026,Materiales,45676.75
+PRY-025,Resiliencia y continuidad operativa,Abril 2026,Capacitación,64970.75
+PRY-007,Optimización de cadena de suministro,Septiembre 2026,Personal,44264.75
+PRY-014,Equipamiento de laboratorio,Febrero 2026,Software y licencias,63558.75
+PRY-021,Optimización energética,Julio 2026,Comunicación y marketing,82852.75
+PRY-003,Implementación de CRM,Diciembre 2026,Personal,63021.75
+PRY-011,Expansión de almacenes,Mayo 2026,Software y licencias,83565.75
+PRY-018,Apertura de sede sur,Octubre 2026,Comunicación y marketing,102859.75
+PRY-025,Resiliencia y continuidad operativa,Marzo 2026,Contingencias,122153.75
+PRY-007,Optimización de cadena de suministro,Agosto 2026,Servicios profesionales,101447.75
+PRY-014,Equipamiento de laboratorio,Enero 2026,Transporte,120741.75
+PRY-021,Optimización energética,Junio 2026,Mantenimiento,18535.75
+PRY-003,Implementación de CRM,Noviembre 2026,Equipamiento,119329.75
+PRY-010,Plan de seguridad operativa,Abril 2026,Materiales,17123.75
+PRY-017,Mantenimiento de flota,Septiembre 2026,Capacitación,36417.75
+PRY-024,Gestión documental,Febrero 2026,Personal,46961.75
+PRY-006,Campaña de posicionamiento regional,Julio 2026,Software y licencias,35005.75
+PRY-013,Programa de sostenibilidad,Diciembre 2026,Comunicación y marketing,54299.75
+PRY-020,Actualización de marca,Mayo 2026,Contingencias,73593.75
+PRY-002,Modernización de planta norte,Octubre 2026,Servicios profesionales,52887.75
+PRY-009,Desarrollo de portal web,Marzo 2026,Transporte,72181.75
+PRY-016,Rediseño de experiencia móvil,Agosto 2026,Mantenimiento,91475.75
+PRY-023,Renovación de puntos de venta,Enero 2026,Equipamiento,102019.75
+PRY-005,Renovación de infraestructura TI,Julio 2026,Materiales,90063.75
+PRY-012,Automatización de reportes,Diciembre 2026,Capacitación,109357.75
+PRY-020,Actualización de marca,Mayo 2026,Personal,121151.75
+PRY-002,Modernización de planta norte,Octubre 2026,Software y licencias,109195.75
+PRY-009,Desarrollo de portal web,Marzo 2026,Comunicación y marketing,6989.75
+PRY-016,Rediseño de experiencia móvil,Agosto 2026,Personal,18408.75
+PRY-023,Renovación de puntos de venta,Enero 2026,Software y licencias,37702.75
+PRY-005,Renovación de infraestructura TI,Junio 2026,Comunicación y marketing,25746.75
+PRY-012,Automatización de reportes,Noviembre 2026,Contingencias,45040.75
+PRY-019,Proyecto de analítica avanzada,Abril 2026,Servicios profesionales,55584.75
+PRY-001,Ampliación de oficina central,Septiembre 2026,Transporte,43628.75
+PRY-008,Centro de atención al cliente,Febrero 2026,Mantenimiento,62922.75
+PRY-015,Migración de datos corporativos,Julio 2026,Equipamiento,73466.75
+PRY-022,Programa de fidelización,Diciembre 2026,Materiales,92760.75
+PRY-004,Programa de capacitación comercial,Mayo 2026,Capacitación,80804.75
+PRY-011,Expansión de almacenes,Octubre 2026,Personal,91348.75
+PRY-018,Apertura de sede sur,Marzo 2026,Software y licencias,110642.75
+PRY-025,Resiliencia y continuidad operativa,Agosto 2026,Comunicación y marketing,8436.75
+PRY-007,Optimización de cadena de suministro,Enero 2026,Contingencias,117980.75
+PRY-014,Equipamiento de laboratorio,Junio 2026,Servicios profesionales,7024.75
+PRY-021,Optimización energética,Noviembre 2026,Transporte,26318.75
+PRY-004,Programa de capacitación comercial,Abril 2026,Mantenimiento,15612.75
+PRY-011,Expansión de almacenes,Septiembre 2026,Equipamiento,26156.75
+PRY-018,Apertura de sede sur,Febrero 2026,Materiales,45450.75
+PRY-025,Resiliencia y continuidad operativa,Julio 2026,Capacitación,64744.75
+PRY-007,Optimización de cadena de suministro,Diciembre 2026,Personal,44038.75
+PRY-014,Equipamiento de laboratorio,Mayo 2026,Software y licencias,63332.75
+PRY-021,Optimización energética,Octubre 2026,Comunicación y marketing,82626.75
+PRY-003,Implementación de CRM,Marzo 2026,Personal,62795.75
+PRY-010,Plan de seguridad operativa,Agosto 2026,Software y licencias,82089.75
+PRY-017,Mantenimiento de flota,Enero 2026,Comunicación y marketing,101383.75
+PRY-024,Gestión documental,Junio 2026,Contingencias,120677.75
+PRY-006,Campaña de posicionamiento regional,Noviembre 2026,Servicios profesionales,99971.75
+PRY-013,Programa de sostenibilidad,Abril 2026,Transporte,119265.75
+PRY-020,Actualización de marca,Septiembre 2026,Mantenimiento,17059.75
+PRY-002,Modernización de planta norte,Febrero 2026,Equipamiento,117853.75
+PRY-009,Desarrollo de portal web,Julio 2026,Materiales,15647.75
+PRY-016,Rediseño de experiencia móvil,Enero 2026,Capacitación,34941.75
+PRY-023,Renovación de puntos de venta,Junio 2026,Personal,45485.75
+PRY-005,Renovación de infraestructura TI,Noviembre 2026,Software y licencias,33529.75
+PRY-013,Programa de sostenibilidad,Abril 2026,Comunicación y marketing,54073.75
+PRY-020,Actualización de marca,Septiembre 2026,Contingencias,73367.75
+PRY-002,Modernización de planta norte,Febrero 2026,Servicios profesionales,52661.75
+PRY-009,Desarrollo de portal web,Julio 2026,Transporte,71955.75
+PRY-016,Rediseño de experiencia móvil,Diciembre 2026,Mantenimiento,91249.75
+PRY-023,Renovación de puntos de venta,Mayo 2026,Equipamiento,101793.75
+PRY-005,Renovación de infraestructura TI,Octubre 2026,Materiales,89837.75
+PRY-012,Automatización de reportes,Marzo 2026,Capacitación,109131.75
+PRY-019,Proyecto de analítica avanzada,Agosto 2026,Personal,119675.75
+PRY-001,Ampliación de oficina central,Enero 2026,Software y licencias,107719.75
+PRY-008,Centro de atención al cliente,Junio 2026,Comunicación y marketing,5513.75
+PRY-015,Migración de datos corporativos,Noviembre 2026,Personal,16932.75
+PRY-022,Programa de fidelización,Abril 2026,Software y licencias,36226.75
+PRY-004,Programa de capacitación comercial,Septiembre 2026,Comunicación y marketing,24270.75
+PRY-011,Expansión de almacenes,Febrero 2026,Contingencias,43564.75
+PRY-018,Apertura de sede sur,Julio 2026,Servicios profesionales,54108.75
+PRY-025,Resiliencia y continuidad operativa,Diciembre 2026,Transporte,73402.75
+PRY-007,Optimización de cadena de suministro,Mayo 2026,Mantenimiento,61446.75
+PRY-014,Equipamiento de laboratorio,Octubre 2026,Equipamiento,71990.75
+PRY-022,Programa de fidelización,Marzo 2026,Materiales,92534.75
+PRY-004,Programa de capacitación comercial,Agosto 2026,Capacitación,80578.75
+PRY-011,Expansión de almacenes,Enero 2026,Personal,91122.75
+PRY-018,Apertura de sede sur,Junio 2026,Software y licencias,110416.75
+PRY-025,Resiliencia y continuidad operativa,Noviembre 2026,Comunicación y marketing,8210.75
+PRY-007,Optimización de cadena de suministro,Abril 2026,Contingencias,117754.75
+PRY-014,Equipamiento de laboratorio,Septiembre 2026,Servicios profesionales,6798.75
+PRY-021,Optimización energética,Febrero 2026,Transporte,26092.75
+PRY-003,Implementación de CRM,Julio 2026,Mantenimiento,14136.75
+PRY-010,Plan de seguridad operativa,Diciembre 2026,Equipamiento,24680.75
+PRY-017,Mantenimiento de flota,Mayo 2026,Materiales,43974.75
+PRY-024,Gestión documental,Octubre 2026,Capacitación,63268.75
+PRY-006,Campaña de posicionamiento regional,Marzo 2026,Personal,42562.75
+PRY-013,Programa de sostenibilidad,Agosto 2026,Software y licencias,61856.75
+PRY-020,Actualización de marca,Enero 2026,Comunicación y marketing,81150.75
+PRY-002,Modernización de planta norte,Julio 2026,Personal,61319.75
+PRY-009,Desarrollo de portal web,Diciembre 2026,Software y licencias,80613.75
+PRY-016,Rediseño de experiencia móvil,Mayo 2026,Comunicación y marketing,99907.75
+PRY-023,Renovación de puntos de venta,Octubre 2026,Contingencias,119201.75
+PRY-006,Campaña de posicionamiento regional,Marzo 2026,Servicios profesionales,99745.75
+PRY-013,Programa de sostenibilidad,Agosto 2026,Transporte,119039.75
+PRY-020,Actualización de marca,Enero 2026,Mantenimiento,16833.75
+PRY-002,Modernización de planta norte,Junio 2026,Equipamiento,117627.75
+PRY-009,Desarrollo de portal web,Noviembre 2026,Materiales,15421.75
+PRY-016,Rediseño de experiencia móvil,Abril 2026,Capacitación,34715.75
+PRY-023,Renovación de puntos de venta,Septiembre 2026,Personal,45259.75
+PRY-005,Renovación de infraestructura TI,Febrero 2026,Software y licencias,33303.75
+PRY-012,Automatización de reportes,Julio 2026,Comunicación y marketing,52597.75
+PRY-019,Proyecto de analítica avanzada,Diciembre 2026,Contingencias,71891.75
+PRY-001,Ampliación de oficina central,Mayo 2026,Servicios profesionales,51185.75
+PRY-008,Centro de atención al cliente,Octubre 2026,Transporte,70479.75
+PRY-015,Migración de datos corporativos,Marzo 2026,Mantenimiento,89773.75
+PRY-022,Programa de fidelización,Agosto 2026,Equipamiento,100317.75
+PRY-004,Programa de capacitación comercial,Enero 2026,Materiales,88361.75
+PRY-011,Expansión de almacenes,Junio 2026,Capacitación,107655.75
+PRY-018,Apertura de sede sur,Noviembre 2026,Personal,118199.75
+PRY-025,Resiliencia y continuidad operativa,Abril 2026,Software y licencias,15993.75
+PRY-007,Optimización de cadena de suministro,Septiembre 2026,Comunicación y marketing,4037.75
+PRY-015,Migración de datos corporativos,Febrero 2026,Personal,16706.75
+PRY-022,Programa de fidelización,Julio 2026,Software y licencias,36000.75
+PRY-004,Programa de capacitación comercial,Diciembre 2026,Comunicación y marketing,24044.75
+PRY-011,Expansión de almacenes,Mayo 2026,Contingencias,43338.75
+PRY-018,Apertura de sede sur,Octubre 2026,Servicios profesionales,53882.75
+PRY-025,Resiliencia y continuidad operativa,Marzo 2026,Transporte,73176.75
+PRY-007,Optimización de cadena de suministro,Agosto 2026,Mantenimiento,61220.75
+PRY-014,Equipamiento de laboratorio,Enero 2026,Equipamiento,71764.75
+PRY-021,Optimización energética,Junio 2026,Materiales,91058.75
+PRY-003,Implementación de CRM,Noviembre 2026,Capacitación,79102.75
+PRY-010,Plan de seguridad operativa,Abril 2026,Personal,89646.75
+PRY-017,Mantenimiento de flota,Septiembre 2026,Software y licencias,108940.75
+PRY-024,Gestión documental,Febrero 2026,Comunicación y marketing,6734.75
+PRY-006,Campaña de posicionamiento regional,Julio 2026,Contingencias,116278.75
+PRY-013,Programa de sostenibilidad,Enero 2026,Servicios profesionales,5322.75
+PRY-020,Actualización de marca,Junio 2026,Transporte,24616.75
+PRY-002,Modernización de planta norte,Noviembre 2026,Mantenimiento,12660.75
+PRY-009,Desarrollo de portal web,Abril 2026,Equipamiento,23204.75
+PRY-016,Rediseño de experiencia móvil,Septiembre 2026,Materiales,42498.75
+PRY-024,Gestión documental,Febrero 2026,Capacitación,63042.75
+PRY-006,Campaña de posicionamiento regional,Julio 2026,Personal,42336.75
+PRY-013,Programa de sostenibilidad,Diciembre 2026,Software y licencias,61630.75
+PRY-020,Actualización de marca,Mayo 2026,Comunicación y marketing,80924.75
+PRY-002,Modernización de planta norte,Octubre 2026,Personal,61093.75
+PRY-009,Desarrollo de portal web,Marzo 2026,Software y licencias,80387.75
+PRY-016,Rediseño de experiencia móvil,Agosto 2026,Comunicación y marketing,99681.75
+PRY-023,Renovación de puntos de venta,Enero 2026,Contingencias,118975.75
+PRY-005,Renovación de infraestructura TI,Junio 2026,Servicios profesionales,98269.75
+PRY-012,Automatización de reportes,Noviembre 2026,Transporte,117563.75
+PRY-019,Proyecto de analítica avanzada,Abril 2026,Mantenimiento,15357.75
+PRY-001,Ampliación de oficina central,Septiembre 2026,Equipamiento,116151.75
+PRY-008,Centro de atención al cliente,Febrero 2026,Materiales,13945.75
+PRY-015,Migración de datos corporativos,Julio 2026,Capacitación,33239.75
+PRY-022,Programa de fidelización,Diciembre 2026,Personal,43783.75
+PRY-004,Programa de capacitación comercial,Mayo 2026,Software y licencias,31827.75
+PRY-011,Expansión de almacenes,Octubre 2026,Comunicación y marketing,51121.75
+PRY-018,Apertura de sede sur,Marzo 2026,Contingencias,70415.75
+PRY-025,Resiliencia y continuidad operativa,Agosto 2026,Servicios profesionales,80959.75
+PRY-008,Centro de atención al cliente,Enero 2026,Transporte,70253.75
+PRY-015,Migración de datos corporativos,Junio 2026,Mantenimiento,89547.75
+PRY-022,Programa de fidelización,Noviembre 2026,Equipamiento,100091.75
+PRY-004,Programa de capacitación comercial,Abril 2026,Materiales,88135.75
+PRY-011,Expansión de almacenes,Septiembre 2026,Capacitación,107429.75
+PRY-018,Apertura de sede sur,Febrero 2026,Personal,117973.75
+PRY-025,Resiliencia y continuidad operativa,Julio 2026,Software y licencias,15767.75
+PRY-007,Optimización de cadena de suministro,Diciembre 2026,Comunicación y marketing,3811.75
+PRY-014,Equipamiento de laboratorio,Mayo 2026,Personal,15230.75
+PRY-021,Optimización energética,Octubre 2026,Software y licencias,34524.75
+PRY-003,Implementación de CRM,Marzo 2026,Comunicación y marketing,22568.75
+PRY-010,Plan de seguridad operativa,Agosto 2026,Contingencias,41862.75
+PRY-017,Mantenimiento de flota,Enero 2026,Servicios profesionales,52406.75
+PRY-024,Gestión documental,Julio 2026,Transporte,71700.75
+PRY-006,Campaña de posicionamiento regional,Diciembre 2026,Mantenimiento,59744.75
+PRY-013,Programa de sostenibilidad,Mayo 2026,Equipamiento,70288.75
+PRY-020,Actualización de marca,Octubre 2026,Materiales,89582.75
+PRY-002,Modernización de planta norte,Marzo 2026,Capacitación,77626.75
+PRY-009,Desarrollo de portal web,Agosto 2026,Personal,88170.75
+PRY-017,Mantenimiento de flota,Enero 2026,Software y licencias,108714.75
+PRY-024,Gestión documental,Junio 2026,Comunicación y marketing,6508.75
+PRY-006,Campaña de posicionamiento regional,Noviembre 2026,Contingencias,116052.75
+PRY-013,Programa de sostenibilidad,Abril 2026,Servicios profesionales,5096.75
+PRY-020,Actualización de marca,Septiembre 2026,Transporte,24390.75
+PRY-002,Modernización de planta norte,Febrero 2026,Mantenimiento,12434.75
+PRY-009,Desarrollo de portal web,Julio 2026,Equipamiento,22978.75
+PRY-016,Rediseño de experiencia móvil,Diciembre 2026,Materiales,42272.75
+PRY-023,Renovación de puntos de venta,Mayo 2026,Capacitación,61566.75
+PRY-005,Renovación de infraestructura TI,Octubre 2026,Personal,40860.75
+PRY-012,Automatización de reportes,Marzo 2026,Software y licencias,60154.75
+PRY-019,Proyecto de analítica avanzada,Agosto 2026,Comunicación y marketing,79448.75
+PRY-001,Ampliación de oficina central,Enero 2026,Personal,59617.75
+PRY-008,Centro de atención al cliente,Junio 2026,Software y licencias,78911.75
+PRY-015,Migración de datos corporativos,Noviembre 2026,Comunicación y marketing,98205.75
+PRY-022,Programa de fidelización,Abril 2026,Contingencias,117499.75
+PRY-004,Programa de capacitación comercial,Septiembre 2026,Servicios profesionales,96793.75
+PRY-011,Expansión de almacenes,Febrero 2026,Transporte,116087.75
+PRY-018,Apertura de sede sur,Julio 2026,Mantenimiento,13881.75
+PRY-001,Ampliación de oficina central,Diciembre 2026,Equipamiento,115925.75
+PRY-008,Centro de atención al cliente,Mayo 2026,Materiales,13719.75
+PRY-015,Migración de datos corporativos,Octubre 2026,Capacitación,33013.75
+PRY-022,Programa de fidelización,Marzo 2026,Personal,43557.75
+PRY-004,Programa de capacitación comercial,Agosto 2026,Software y licencias,31601.75
+PRY-011,Expansión de almacenes,Enero 2026,Comunicación y marketing,50895.75
+PRY-018,Apertura de sede sur,Junio 2026,Contingencias,70189.75
+PRY-025,Resiliencia y continuidad operativa,Noviembre 2026,Servicios profesionales,80733.75
+PRY-007,Optimización de cadena de suministro,Abril 2026,Transporte,68777.75
+PRY-014,Equipamiento de laboratorio,Septiembre 2026,Mantenimiento,88071.75
+PRY-021,Optimización energética,Febrero 2026,Equipamiento,98615.75
+PRY-003,Implementación de CRM,Julio 2026,Materiales,86659.75
+PRY-010,Plan de seguridad operativa,Enero 2026,Capacitación,105953.75
+PRY-017,Mantenimiento de flota,Junio 2026,Personal,116497.75
+PRY-024,Gestión documental,Noviembre 2026,Software y licencias,14291.75
+PRY-006,Campaña de posicionamiento regional,Abril 2026,Comunicación y marketing,123835.75
+PRY-013,Programa de sostenibilidad,Septiembre 2026,Personal,13754.75
+PRY-020,Actualización de marca,Febrero 2026,Software y licencias,33048.75
+PRY-002,Modernización de planta norte,Julio 2026,Comunicación y marketing,21092.75
+PRY-010,Plan de seguridad operativa,Diciembre 2026,Contingencias,41636.75
+PRY-017,Mantenimiento de flota,Mayo 2026,Servicios profesionales,52180.75
+PRY-024,Gestión documental,Octubre 2026,Transporte,71474.75
+PRY-006,Campaña de posicionamiento regional,Marzo 2026,Mantenimiento,59518.75
+PRY-013,Programa de sostenibilidad,Agosto 2026,Equipamiento,70062.75
+PRY-020,Actualización de marca,Enero 2026,Materiales,89356.75
+PRY-002,Modernización de planta norte,Junio 2026,Capacitación,77400.75
+PRY-009,Desarrollo de portal web,Noviembre 2026,Personal,87944.75
+PRY-016,Rediseño de experiencia móvil,Abril 2026,Software y licencias,107238.75
+PRY-023,Renovación de puntos de venta,Septiembre 2026,Comunicación y marketing,5032.75
+PRY-005,Renovación de infraestructura TI,Febrero 2026,Contingencias,114576.75
+PRY-012,Automatización de reportes,Julio 2026,Servicios profesionales,3620.75
+PRY-019,Proyecto de analítica avanzada,Diciembre 2026,Transporte,22914.75
+PRY-001,Ampliación de oficina central,Mayo 2026,Mantenimiento,10958.75
+PRY-008,Centro de atención al cliente,Octubre 2026,Equipamiento,21502.75
+PRY-015,Migración de datos corporativos,Marzo 2026,Materiales,40796.75
+PRY-022,Programa de fidelización,Agosto 2026,Capacitación,60090.75
+PRY-004,Programa de capacitación comercial,Enero 2026,Personal,39384.75
+PRY-011,Expansión de almacenes,Junio 2026,Software y licencias,58678.75
+PRY-019,Proyecto de analítica avanzada,Noviembre 2026,Comunicación y marketing,79222.75
+PRY-001,Ampliación de oficina central,Abril 2026,Personal,59391.75
+PRY-008,Centro de atención al cliente,Septiembre 2026,Software y licencias,78685.75
+PRY-015,Migración de datos corporativos,Febrero 2026,Comunicación y marketing,97979.75
+PRY-022,Programa de fidelización,Julio 2026,Contingencias,117273.75
+PRY-004,Programa de capacitación comercial,Diciembre 2026,Servicios profesionales,96567.75
+PRY-011,Expansión de almacenes,Mayo 2026,Transporte,115861.75
+PRY-018,Apertura de sede sur,Octubre 2026,Mantenimiento,13655.75
+PRY-025,Resiliencia y continuidad operativa,Marzo 2026,Equipamiento,24199.75
+PRY-007,Optimización de cadena de suministro,Agosto 2026,Materiales,12243.75
+PRY-014,Equipamiento de laboratorio,Enero 2026,Capacitación,31537.75
+PRY-021,Optimización energética,Julio 2026,Personal,42081.75
