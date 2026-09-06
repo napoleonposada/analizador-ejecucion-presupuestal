@@ -56,4 +56,8 @@ Importar el repositorio en Vercel, configurar las variables de `.env.ejemplo` en
 
 ## Repositorio
 
-El código fuente se publica en un repositorio privado de GitHub. Las credenciales deben configurarse en Vercel y localmente mediante archivos `.env` ignorados por Git, nunca dentro del repositorio.
+El código fuente está disponible en el repositorio privado de GitHub:
+
+<https://github.com/napoleonposada/analizador-ejecucion-presupuestal>
+
+Las credenciales deben configurarse en Vercel y localmente mediante archivos `.env` ignorados por Git, nunca dentro del repositorio.
